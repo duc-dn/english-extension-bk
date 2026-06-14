@@ -1,5 +1,5 @@
 {
-  "export_date": "2026-06-14T15:56:23.619Z",
+  "export_date": "2026-06-14T15:57:21.060Z",
   "words": [
     {
       "word": "Enforced",
@@ -22,14 +22,16 @@
       "meaning": "liên kết",
       "example": "You need to consolidate the underlying Parquet files in Table1.",
       "tags": [
-        "web-clipping"
+        "web-clipping",
+        "it-common"
       ],
       "id": "5d6062f6-7831-464a-8183-4c376d6a1873",
       "review_level": 0,
       "next_review": "2026-06-14T15:29:33.310Z",
       "created_at": "2026-06-14T15:29:33.310Z",
       "wrong_count": 0,
-      "status": "new"
+      "status": "new",
+      "description": ""
     },
     {
       "word": "Distributed",
