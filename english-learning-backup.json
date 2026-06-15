@@ -1,5 +1,5 @@
 {
-  "export_date": "2026-06-15T01:57:44.935Z",
+  "export_date": "2026-06-15T09:11:12.655Z",
   "words": [
     {
       "word": "exhibit",
@@ -13,6 +13,21 @@
       "review_level": 0,
       "next_review": "2026-06-14T16:29:50.594Z",
       "created_at": "2026-06-14T16:29:50.594Z",
+      "wrong_count": 0,
+      "status": "new"
+    },
+    {
+      "word": "denormalize",
+      "phonetic": "",
+      "meaning": "phi chuẩn hóa",
+      "example": "You need to denormalize the tables and include the ContractType and StartDate columns in the Employee table. The solution must meet the",
+      "tags": [
+        "web-clipping"
+      ],
+      "id": "06891666-67f0-4049-aa15-68429704bb29",
+      "review_level": 0,
+      "next_review": "2026-06-15T08:13:47.196Z",
+      "created_at": "2026-06-15T08:13:47.196Z",
       "wrong_count": 0,
       "status": "new"
     },
@@ -78,6 +93,22 @@
       "wrong_count": 1,
       "status": "new",
       "description": ""
+    },
+    {
+      "word": "candidate",
+      "phonetic": "/ˈkæn.dɪdət/",
+      "meaning": "người ứng cử, thí sinh",
+      "description": "[noun] A person who is running in an election.; A person who is applying for a job.\n[verb] To stand as a candidate for an office, especially a religious one.; (chiefly in jargon and NNES) To make or name (something) a candidate (for use, for study as a next project, for investigation as a possible cause of something, etc).",
+      "example": "",
+      "tags": [
+        "noun"
+      ],
+      "id": "845e3306-b951-42d2-aa04-2b4f8654416a",
+      "review_level": 0,
+      "next_review": "2026-06-15T09:11:12.607Z",
+      "created_at": "2026-06-15T09:11:12.607Z",
+      "wrong_count": 0,
+      "status": "new"
     },
     {
       "word": "Distributed",
