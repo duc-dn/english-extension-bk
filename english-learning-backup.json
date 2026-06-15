@@ -1,5 +1,5 @@
 {
-  "export_date": "2026-06-15T01:53:49.766Z",
+  "export_date": "2026-06-15T01:53:55.012Z",
   "words": [
     {
       "word": "exhibit",
@@ -25,11 +25,11 @@
         "web-clipping"
       ],
       "id": "1067a31a-5ce8-42a9-9746-29d1a6be4520",
-      "review_level": 0,
-      "next_review": "2026-06-14T15:35:16.585Z",
+      "review_level": 1,
+      "next_review": "2026-06-16T01:53:55.008Z",
       "created_at": "2026-06-14T15:35:16.585Z",
       "wrong_count": 0,
-      "status": "new"
+      "status": "learning"
     },
     {
       "word": "endorse",
@@ -114,6 +114,12 @@
   ],
   "grammar_notes": [],
   "review_history": [
+    {
+      "id": "0957e55a-63ec-40e2-8bdf-bb3e43b1c7f4",
+      "word_id": "1067a31a-5ce8-42a9-9746-29d1a6be4520",
+      "reviewed_at": "2026-06-15T01:53:55.010Z",
+      "score": "good"
+    },
     {
       "id": "85c761cd-4d38-4eea-9c05-651d9e0ef980",
       "word_id": "5d6062f6-7831-464a-8183-4c376d6a1873",
