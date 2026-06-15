@@ -1,5 +1,5 @@
 {
-  "export_date": "2026-06-15T01:08:08.759Z",
+  "export_date": "2026-06-15T01:53:49.766Z",
   "words": [
     {
       "word": "exhibit",
@@ -73,7 +73,7 @@
       ],
       "id": "5d6062f6-7831-464a-8183-4c376d6a1873",
       "review_level": 0,
-      "next_review": "2026-06-14T15:29:33.310Z",
+      "next_review": "2026-06-15T01:53:49.737Z",
       "created_at": "2026-06-14T15:29:33.310Z",
       "wrong_count": 0,
       "status": "new",
@@ -114,6 +114,12 @@
   ],
   "grammar_notes": [],
   "review_history": [
+    {
+      "id": "85c761cd-4d38-4eea-9c05-651d9e0ef980",
+      "word_id": "5d6062f6-7831-464a-8183-4c376d6a1873",
+      "reviewed_at": "2026-06-15T01:53:49.743Z",
+      "score": "hard"
+    },
     {
       "id": "88bb4e13-e760-433b-b8c9-a53a11f3b7bc",
       "word_id": "eb1df5e3-9958-41a3-9cbf-c697032ddc0d",
