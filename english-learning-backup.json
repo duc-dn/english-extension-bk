@@ -1,6 +1,154 @@
 {
-  "export_date": "2026-06-15T07:23:00.104Z",
-  "words": [],
+  "export_date": "2026-06-15T01:57:44.935Z",
+  "words": [
+    {
+      "word": "exhibit",
+      "phonetic": "/ɛɡ-/",
+      "meaning": "trưng bày, triển lãm; vật trưng bày",
+      "example": "You are building a data orchestration pattern by using a Fabric data pipeline named Dynamic Data Copy as shown in the exhibit. (Click the Exhibit",
+      "tags": [
+        "web-clipping"
+      ],
+      "id": "02d4271e-0f0b-499f-b638-0dd0d151860c",
+      "review_level": 0,
+      "next_review": "2026-06-14T16:29:50.594Z",
+      "created_at": "2026-06-14T16:29:50.594Z",
+      "wrong_count": 0,
+      "status": "new"
+    },
+    {
+      "word": "Enforced",
+      "phonetic": "/ɪnˈfɔːst/",
+      "meaning": "Bắt buộc",
+      "example": "Enforced",
+      "tags": [
+        "web-clipping"
+      ],
+      "id": "1067a31a-5ce8-42a9-9746-29d1a6be4520",
+      "review_level": 1,
+      "next_review": "2026-06-16T01:53:55.008Z",
+      "created_at": "2026-06-14T15:35:16.585Z",
+      "wrong_count": 0,
+      "status": "learning"
+    },
+    {
+      "word": "endorse",
+      "phonetic": "/ɪnˈdɔːs/",
+      "meaning": "tán thành",
+      "example": "Which items can you endorse in Fabric?",
+      "tags": [
+        "web-clipping"
+      ],
+      "id": "1fb67d01-89d6-4843-8d34-a590bdca4b85",
+      "review_level": 0,
+      "next_review": "2026-06-14T16:34:42.810Z",
+      "created_at": "2026-06-14T16:34:42.810Z",
+      "wrong_count": 0,
+      "status": "new"
+    },
+    {
+      "word": "partial",
+      "phonetic": "/ˈpɑːʃəl/",
+      "meaning": "Một phần",
+      "description": "",
+      "example": "",
+      "tags": [
+        "noun"
+      ],
+      "id": "32b9a3e3-22fc-4a1c-b0db-9379cd1d96c0",
+      "review_level": 0,
+      "next_review": "2026-06-14T16:33:01.677Z",
+      "created_at": "2026-06-14T16:33:01.677Z",
+      "wrong_count": 0,
+      "status": "new"
+    },
+    {
+      "word": "consolidate",
+      "phonetic": "/kənˈsɒlɪdeɪt/",
+      "meaning": "liên kết",
+      "example": "You need to consolidate the underlying Parquet files in Table1.",
+      "tags": [
+        "web-clipping",
+        "it-common"
+      ],
+      "id": "5d6062f6-7831-464a-8183-4c376d6a1873",
+      "review_level": 0,
+      "next_review": "2026-06-15T01:53:49.737Z",
+      "created_at": "2026-06-14T15:29:33.310Z",
+      "wrong_count": 1,
+      "status": "new",
+      "description": ""
+    },
+    {
+      "word": "Distributed",
+      "phonetic": "/dɪsˈtɹɪbjutɪd/",
+      "meaning": "Được phân phối",
+      "example": "b. Distributed Executors: Airflow also supports distributed executors like the Celery Executor and the Kubernetes Executor. These executors distribute task execution across multiple worker nodes or containers, enabling parallel processing of tasks.",
+      "tags": [
+        "web-clipping"
+      ],
+      "id": "853e55dd-75bd-411f-b0ba-ef19bc8c888f",
+      "review_level": 1,
+      "next_review": "2026-06-15T14:12:48.297Z",
+      "created_at": "2026-06-13T12:57:25.021Z",
+      "wrong_count": 0,
+      "status": "learning",
+      "description": ""
+    },
+    {
+      "word": "opportunities",
+      "phonetic": "/ˌɒp.əˈtjuː.nɪ.tiz/",
+      "meaning": "tuyệt vời, cơ hội",
+      "description": "[noun] A chance for advancement, progress or profit.; A favorable circumstance or occasion.",
+      "example": "The world is full of opportunities and it's up to me to see them and pursue them.",
+      "tags": [
+        "noun"
+      ],
+      "id": "eb1df5e3-9958-41a3-9cbf-c697032ddc0d",
+      "review_level": 1,
+      "next_review": "2026-06-15T14:12:54.638Z",
+      "created_at": "2026-06-13T15:12:13.484Z",
+      "wrong_count": 0,
+      "status": "learning"
+    }
+  ],
   "grammar_notes": [],
-  "review_history": []
+  "review_history": [
+    {
+      "id": "0957e55a-63ec-40e2-8bdf-bb3e43b1c7f4",
+      "word_id": "1067a31a-5ce8-42a9-9746-29d1a6be4520",
+      "reviewed_at": "2026-06-15T01:53:55.010Z",
+      "score": "good"
+    },
+    {
+      "id": "85c761cd-4d38-4eea-9c05-651d9e0ef980",
+      "word_id": "5d6062f6-7831-464a-8183-4c376d6a1873",
+      "reviewed_at": "2026-06-15T01:53:49.743Z",
+      "score": "hard"
+    },
+    {
+      "id": "88bb4e13-e760-433b-b8c9-a53a11f3b7bc",
+      "word_id": "eb1df5e3-9958-41a3-9cbf-c697032ddc0d",
+      "reviewed_at": "2026-06-14T14:12:54.641Z",
+      "score": "good"
+    },
+    {
+      "id": "991a5c42-4953-4eff-ab1c-1579c566d12a",
+      "word_id": "eb1df5e3-9958-41a3-9cbf-c697032ddc0d",
+      "reviewed_at": "2026-06-13T15:12:37.754Z",
+      "score": "hard"
+    },
+    {
+      "id": "aeb60df6-c438-4b31-a252-620941cd3714",
+      "word_id": "853e55dd-75bd-411f-b0ba-ef19bc8c888f",
+      "reviewed_at": "2026-06-13T15:12:28.485Z",
+      "score": "hard"
+    },
+    {
+      "id": "d4280247-df82-48e5-af48-307ba4e6cf31",
+      "word_id": "853e55dd-75bd-411f-b0ba-ef19bc8c888f",
+      "reviewed_at": "2026-06-14T14:12:48.299Z",
+      "score": "good"
+    }
+  ]
 }
