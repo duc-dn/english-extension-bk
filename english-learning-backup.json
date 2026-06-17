@@ -1,5 +1,5 @@
 {
-  "export_date": "2026-06-15T09:14:39.374Z",
+  "export_date": "2026-06-17T14:39:17.022Z",
   "words": [
     {
       "word": "exhibit",
@@ -58,6 +58,21 @@
       "review_level": 0,
       "next_review": "2026-06-14T16:34:42.810Z",
       "created_at": "2026-06-14T16:34:42.810Z",
+      "wrong_count": 1,
+      "status": "new"
+    },
+    {
+      "word": "retain",
+      "phonetic": "/ɹɪˈteɪn/",
+      "meaning": "giữ lại, nhớ được",
+      "example": "You need to resolve the issues. The solution must ensure that the data types of the results are retained. The results can contain blank cells.",
+      "tags": [
+        "web-clipping"
+      ],
+      "id": "2ae8301d-baa8-4a63-a0a2-4d43a0939d58",
+      "review_level": 0,
+      "next_review": "2026-06-15T10:06:30.187Z",
+      "created_at": "2026-06-15T10:06:30.187Z",
       "wrong_count": 0,
       "status": "new"
     },
