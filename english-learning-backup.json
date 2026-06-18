@@ -1,5 +1,5 @@
 {
-  "export_date": "2026-06-18T12:34:50.397Z",
+  "export_date": "2026-06-18T12:34:58.583Z",
   "words": [
     {
       "word": "exhibit",
@@ -123,6 +123,21 @@
       "wrong_count": 1,
       "status": "new",
       "description": ""
+    },
+    {
+      "word": "Spill (Disk)",
+      "phonetic": "",
+      "meaning": "Tràn (Đĩa)",
+      "example": "",
+      "tags": [
+        "lookup-popup"
+      ],
+      "id": "62f1d733-d29e-4bf5-a7a7-7fb9da72104f",
+      "review_level": 0,
+      "next_review": "2026-06-18T12:34:58.576Z",
+      "created_at": "2026-06-18T12:34:58.576Z",
+      "wrong_count": 0,
+      "status": "new"
     },
     {
       "word": "candidate",
