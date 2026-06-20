@@ -1,5 +1,5 @@
 {
-  "export_date": "2026-06-20T13:52:53.630Z",
+  "export_date": "2026-06-20T13:52:56.967Z",
   "words": [
     {
       "word": "exhibit",
@@ -70,11 +70,11 @@
         "web-clipping"
       ],
       "id": "1fb67d01-89d6-4843-8d34-a590bdca4b85",
-      "review_level": 0,
-      "next_review": "2026-06-14T16:34:42.810Z",
+      "review_level": 1,
+      "next_review": "2026-06-21T13:52:56.962Z",
       "created_at": "2026-06-14T16:34:42.810Z",
       "wrong_count": 1,
-      "status": "new"
+      "status": "learning"
     },
     {
       "word": "retain",
@@ -194,6 +194,12 @@
       "id": "0957e55a-63ec-40e2-8bdf-bb3e43b1c7f4",
       "word_id": "1067a31a-5ce8-42a9-9746-29d1a6be4520",
       "reviewed_at": "2026-06-15T01:53:55.010Z",
+      "score": "good"
+    },
+    {
+      "id": "4771bed5-97eb-4ce0-a82f-070212250ab4",
+      "word_id": "1fb67d01-89d6-4843-8d34-a590bdca4b85",
+      "reviewed_at": "2026-06-20T13:52:56.964Z",
       "score": "good"
     },
     {
