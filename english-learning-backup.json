@@ -1,5 +1,5 @@
 {
-  "export_date": "2026-06-20T09:10:19.798Z",
+  "export_date": "2026-06-20T13:52:53.630Z",
   "words": [
     {
       "word": "exhibit",
@@ -101,11 +101,11 @@
         "noun"
       ],
       "id": "32b9a3e3-22fc-4a1c-b0db-9379cd1d96c0",
-      "review_level": 0,
-      "next_review": "2026-06-14T16:33:01.677Z",
+      "review_level": 1,
+      "next_review": "2026-06-21T13:52:53.604Z",
       "created_at": "2026-06-14T16:33:01.677Z",
       "wrong_count": 0,
-      "status": "new"
+      "status": "learning"
     },
     {
       "word": "consolidate",
@@ -230,6 +230,12 @@
       "id": "d4280247-df82-48e5-af48-307ba4e6cf31",
       "word_id": "853e55dd-75bd-411f-b0ba-ef19bc8c888f",
       "reviewed_at": "2026-06-14T14:12:48.299Z",
+      "score": "good"
+    },
+    {
+      "id": "fd52cd32-08dc-4aff-952c-3083010761a5",
+      "word_id": "32b9a3e3-22fc-4a1c-b0db-9379cd1d96c0",
+      "reviewed_at": "2026-06-20T13:52:53.607Z",
       "score": "good"
     }
   ]
