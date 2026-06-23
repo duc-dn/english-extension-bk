@@ -1,5 +1,5 @@
 {
-  "export_date": "2026-06-20T13:52:56.967Z",
+  "export_date": "2026-06-23T14:55:43.425Z",
   "words": [
     {
       "word": "exhibit",
@@ -47,6 +47,21 @@
       "status": "learning"
     },
     {
+      "word": "representatives",
+      "phonetic": "/ˌɹɛpɹɪˈzɛntətɪvz/",
+      "meaning": "đại diện",
+      "example": "You need to ensure that the sales representatives can see only their respective data.",
+      "tags": [
+        "web-clipping"
+      ],
+      "id": "19b3a7bc-c8d0-4180-bb92-ef4f0aece8c1",
+      "review_level": 0,
+      "next_review": "2026-06-23T09:46:56.623Z",
+      "created_at": "2026-06-23T09:46:56.623Z",
+      "wrong_count": 0,
+      "status": "new"
+    },
+    {
       "word": "Spill (Memory)",
       "phonetic": "",
       "meaning": "Tràn (Bộ nhớ)",
@@ -73,7 +88,7 @@
       "review_level": 1,
       "next_review": "2026-06-21T13:52:56.962Z",
       "created_at": "2026-06-14T16:34:42.810Z",
-      "wrong_count": 1,
+      "wrong_count": 2,
       "status": "learning"
     },
     {
@@ -106,6 +121,21 @@
       "created_at": "2026-06-14T16:33:01.677Z",
       "wrong_count": 0,
       "status": "learning"
+    },
+    {
+      "word": "surrogate keys",
+      "phonetic": "",
+      "meaning": "chìa khóa thay thế",
+      "example": "D. Modify the surrogate keys to use a different data type.",
+      "tags": [
+        "web-clipping"
+      ],
+      "id": "3cd4aa31-1da5-49a0-809d-282bf6a594b0",
+      "review_level": 0,
+      "next_review": "2026-06-23T14:51:50.049Z",
+      "created_at": "2026-06-23T14:51:50.049Z",
+      "wrong_count": 0,
+      "status": "new"
     },
     {
       "word": "consolidate",
@@ -170,6 +200,21 @@
       "wrong_count": 0,
       "status": "learning",
       "description": ""
+    },
+    {
+      "word": "repartition",
+      "phonetic": "",
+      "meaning": "phân vùng lại",
+      "example": "repartition",
+      "tags": [
+        "web-clipping"
+      ],
+      "id": "e0936c44-b512-4d36-b06c-8f8f9a3843f0",
+      "review_level": 0,
+      "next_review": "2026-06-21T15:27:57.015Z",
+      "created_at": "2026-06-21T15:27:57.015Z",
+      "wrong_count": 0,
+      "status": "new"
     },
     {
       "word": "opportunities",
