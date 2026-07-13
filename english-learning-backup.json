@@ -1,6 +1,21 @@
 {
-  "export_date": "2026-06-23T14:55:50.123Z",
+  "export_date": "2026-07-13T09:31:03.045Z",
   "words": [
+    {
+      "word": "Migrate",
+      "phonetic": "/maɪ.ˈɡɹeɪt/",
+      "meaning": "Chuyển",
+      "example": "E. Migrate the Employee table from Lakehouse1 to Lakehouse2.",
+      "tags": [
+        "web-clipping"
+      ],
+      "id": "00119771-48ce-4ed3-abda-1c8d4ef82780",
+      "review_level": 0,
+      "next_review": "2026-07-13T02:38:24.510Z",
+      "created_at": "2026-07-13T02:38:24.510Z",
+      "wrong_count": 0,
+      "status": "new"
+    },
     {
       "word": "exhibit",
       "phonetic": "/ɛɡ-/",
@@ -45,6 +60,21 @@
       "created_at": "2026-06-14T15:35:16.585Z",
       "wrong_count": 0,
       "status": "learning"
+    },
+    {
+      "word": "indicate",
+      "phonetic": "/ˈɪndɪkeɪt/",
+      "meaning": "chỉ, cho biết; biếu thị, trình bày ngắn gọn",
+      "example": "Business users perform ad-hoc queries against the warehouse. The business users indicate that reports against the warehouse sometimes run for",
+      "tags": [
+        "web-clipping"
+      ],
+      "id": "1220ba15-11c6-4a51-8fce-66d066e1deb0",
+      "review_level": 0,
+      "next_review": "2026-06-24T03:58:19.873Z",
+      "created_at": "2026-06-24T03:58:19.873Z",
+      "wrong_count": 0,
+      "status": "new"
     },
     {
       "word": "representatives",
@@ -123,6 +153,21 @@
       "status": "learning"
     },
     {
+      "word": "must be omitted",
+      "phonetic": "",
+      "meaning": "phải được bỏ qua",
+      "example": "\"Some product categories and subcategories are NOT assigned to any product. They are NOT analytically relevant and must be omitted from the product dimension in the gold layer.\"",
+      "tags": [
+        "web-clipping"
+      ],
+      "id": "37bf61e2-cddc-4e54-84f1-54693ff09b84",
+      "review_level": 0,
+      "next_review": "2026-07-13T09:30:40.606Z",
+      "created_at": "2026-07-13T09:30:40.606Z",
+      "wrong_count": 0,
+      "status": "new"
+    },
+    {
       "word": "surrogate keys",
       "phonetic": "",
       "meaning": "chìa khóa thay thế",
@@ -134,6 +179,96 @@
       "review_level": 0,
       "next_review": "2026-06-23T14:51:50.049Z",
       "created_at": "2026-06-23T14:51:50.049Z",
+      "wrong_count": 0,
+      "status": "new"
+    },
+    {
+      "word": "badge",
+      "phonetic": "/bædʒ/",
+      "meaning": "huy hiệu",
+      "example": "4 loại badge",
+      "tags": [
+        "web-clipping"
+      ],
+      "id": "41f6232c-132f-4a1c-9db4-130fd38780c7",
+      "review_level": 0,
+      "next_review": "2026-06-26T15:54:01.766Z",
+      "created_at": "2026-06-26T15:54:01.766Z",
+      "wrong_count": 0,
+      "status": "new"
+    },
+    {
+      "word": "provisioned",
+      "phonetic": "",
+      "meaning": "được cung cấp",
+      "example": "To control data platform costs, the data platform must use only Fabric services and items. Additional Azure resources must NOT be provisioned.",
+      "tags": [
+        "web-clipping"
+      ],
+      "id": "44133f52-6ef3-494b-bd56-d7c6612da06a",
+      "review_level": 0,
+      "next_review": "2026-06-28T15:48:05.317Z",
+      "created_at": "2026-06-28T15:48:05.317Z",
+      "wrong_count": 0,
+      "status": "new"
+    },
+    {
+      "word": "You need to apply endorsement badges to the entities based on each entity’s use case.",
+      "phonetic": "",
+      "meaning": "Bạn cần áp dụng huy hiệu chứng thực cho các thực thể dựa trên trường hợp sử dụng của từng thực thể.",
+      "example": "You need to apply endorsement badges to the entities based on each entity’s use case.",
+      "tags": [
+        "web-clipping"
+      ],
+      "id": "4bea91da-a730-479a-b17d-5abd030e092e",
+      "review_level": 0,
+      "next_review": "2026-07-13T08:36:44.008Z",
+      "created_at": "2026-07-13T08:36:44.008Z",
+      "wrong_count": 0,
+      "status": "new"
+    },
+    {
+      "word": "degraded",
+      "phonetic": "/dɪˈɡɹeɪdəd/",
+      "meaning": "xuống cấp",
+      "example": "While monitoring Warehouse1, you discover that query performance has degraded during the last 60 minutes.",
+      "tags": [
+        "web-clipping"
+      ],
+      "id": "4c11cfca-466d-4e93-83cf-d74ea5c92bfa",
+      "review_level": 0,
+      "next_review": "2026-07-09T07:45:18.295Z",
+      "created_at": "2026-07-09T07:45:18.295Z",
+      "wrong_count": 0,
+      "status": "new"
+    },
+    {
+      "word": "write-intensive",
+      "phonetic": "",
+      "meaning": "viết chuyên sâu",
+      "example": "You have a Fabric workspace that contains a write-intensive warehouse named DW1. DW1 stores staging tables that are used to load a",
+      "tags": [
+        "web-clipping"
+      ],
+      "id": "4d7aeaf7-24ca-4baf-9cdd-4a4c1962e4bc",
+      "review_level": 0,
+      "next_review": "2026-07-01T16:27:36.747Z",
+      "created_at": "2026-07-01T16:27:36.747Z",
+      "wrong_count": 0,
+      "status": "new"
+    },
+    {
+      "word": "Cumulative Sum",
+      "phonetic": "",
+      "meaning": "Tổng tích lũy",
+      "example": "\"Cumulative Sum\"",
+      "tags": [
+        "web-clipping"
+      ],
+      "id": "5d4db4c0-4e6b-462f-8a01-827fcbc9f14d",
+      "review_level": 0,
+      "next_review": "2026-07-04T17:08:44.645Z",
+      "created_at": "2026-07-04T17:08:44.645Z",
       "wrong_count": 0,
       "status": "new"
     },
@@ -170,6 +305,21 @@
       "status": "new"
     },
     {
+      "word": "Ensure that all the rows from the Employee table are preserved and include any matching rows from the Contract table.",
+      "phonetic": "",
+      "meaning": "Đảm bảo rằng tất cả các hàng từ bảng Nhân viên được giữ nguyên và bao gồm bất kỳ hàng phù hợp nào từ bảng Hợp đồng.",
+      "example": "Ensure that all the rows from the Employee table are preserved and include any matching rows from the Contract table.",
+      "tags": [
+        "web-clipping"
+      ],
+      "id": "6420815c-40a0-4304-b433-1c8577e05aa5",
+      "review_level": 0,
+      "next_review": "2026-07-05T10:29:43.997Z",
+      "created_at": "2026-07-05T10:29:43.997Z",
+      "wrong_count": 0,
+      "status": "new"
+    },
+    {
       "word": "candidate",
       "phonetic": "/ˈkæn.dɪdət/",
       "meaning": "người ứng cử, thí sinh",
@@ -202,6 +352,81 @@
       "description": ""
     },
     {
+      "word": "propagated",
+      "phonetic": "",
+      "meaning": "tuyên truyền",
+      "example": "You discover that events are NOT being propagated to EventStreamDB1.",
+      "tags": [
+        "web-clipping"
+      ],
+      "id": "a01ff239-f7ce-47d6-b927-6d63392e0525",
+      "review_level": 0,
+      "next_review": "2026-06-24T09:51:12.650Z",
+      "created_at": "2026-06-24T09:51:12.650Z",
+      "wrong_count": 0,
+      "status": "new"
+    },
+    {
+      "word": "query performance has degraded during the last 60 minutes.",
+      "phonetic": "",
+      "meaning": "hiệu suất truy vấn đã bị suy giảm trong 60 phút qua.",
+      "example": "While monitoring Warehouse1, you discover that query performance has degraded during the last 60 minutes.",
+      "tags": [
+        "web-clipping"
+      ],
+      "id": "bdef57c7-5ad1-4812-a6c6-eb131684eefc",
+      "review_level": 0,
+      "next_review": "2026-07-01T16:41:45.341Z",
+      "created_at": "2026-07-01T16:41:45.341Z",
+      "wrong_count": 0,
+      "status": "new"
+    },
+    {
+      "word": "provision",
+      "phonetic": "/pɹəˈvɪʒ.ən/",
+      "meaning": "sự cung cấp",
+      "example": "To control data platform costs, the data platform must use only Fabric services and items. Additional Azure resources must NOT be provisioned.",
+      "tags": [
+        "web-clipping"
+      ],
+      "id": "be438c20-9d99-45f4-b28f-6a3f94e0b11e",
+      "review_level": 0,
+      "next_review": "2026-06-24T04:06:24.828Z",
+      "created_at": "2026-06-24T04:06:24.828Z",
+      "wrong_count": 0,
+      "status": "new"
+    },
+    {
+      "word": "Endorsement",
+      "phonetic": "",
+      "meaning": "Chứng thực",
+      "example": "Endorsement (chứng nhận dữ liệu)",
+      "tags": [
+        "web-clipping"
+      ],
+      "id": "cdec44d8-c553-4412-b4b0-9e1d9eba9f08",
+      "review_level": 0,
+      "next_review": "2026-06-26T15:54:09.111Z",
+      "created_at": "2026-06-26T15:54:09.111Z",
+      "wrong_count": 0,
+      "status": "new"
+    },
+    {
+      "word": "Ensure that all the rows from the Employee table are preserved and include any matching rows from the Contract table.",
+      "phonetic": "",
+      "meaning": "Đảm bảo rằng tất cả các hàng từ bảng Nhân viên được giữ nguyên và bao gồm bất kỳ hàng phù hợp nào từ bảng Hợp đồng.",
+      "example": "Ensure that all the rows from the Employee table are preserved and include any matching rows from the Contract table.",
+      "tags": [
+        "web-clipping"
+      ],
+      "id": "d514cd7b-8746-4eca-a3de-5ebe2fc56ad6",
+      "review_level": 0,
+      "next_review": "2026-06-29T16:16:46.983Z",
+      "created_at": "2026-06-29T16:16:46.983Z",
+      "wrong_count": 0,
+      "status": "new"
+    },
+    {
       "word": "repartition",
       "phonetic": "",
       "meaning": "phân vùng lại",
@@ -231,6 +456,21 @@
       "created_at": "2026-06-13T15:12:13.484Z",
       "wrong_count": 0,
       "status": "learning"
+    },
+    {
+      "word": "omitted from",
+      "phonetic": "",
+      "meaning": "bỏ qua",
+      "example": "Some product categories and subcategories are NOT assigned to any product. They are NOT analytically relevant and must be omitted from the",
+      "tags": [
+        "web-clipping"
+      ],
+      "id": "f7dcbf85-9c8d-43b6-8a46-3830ecd3288d",
+      "review_level": 0,
+      "next_review": "2026-06-29T15:59:54.841Z",
+      "created_at": "2026-06-29T15:59:54.841Z",
+      "wrong_count": 0,
+      "status": "new"
     }
   ],
   "grammar_notes": [],
