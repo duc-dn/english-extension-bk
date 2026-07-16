@@ -1,5 +1,5 @@
 {
-  "export_date": "2026-07-13T09:31:03.045Z",
+  "export_date": "2026-07-16T15:36:05.337Z",
   "words": [
     {
       "word": "Migrate",
@@ -30,6 +30,21 @@
       "created_at": "2026-06-14T16:29:50.594Z",
       "wrong_count": 0,
       "status": "learning"
+    },
+    {
+      "word": "Endorsement",
+      "phonetic": "",
+      "meaning": "Chứng thực",
+      "example": "Endorsement",
+      "tags": [
+        "web-clipping"
+      ],
+      "id": "064282c7-cfe9-4eb5-a00f-65b38ddfc19f",
+      "review_level": 0,
+      "next_review": "2026-07-15T08:33:53.951Z",
+      "created_at": "2026-07-15T08:33:53.951Z",
+      "wrong_count": 0,
+      "status": "new"
     },
     {
       "word": "denormalize",
@@ -320,6 +335,21 @@
       "status": "new"
     },
     {
+      "word": "endorsement badge",
+      "phonetic": "",
+      "meaning": "huy hiệu xác nhận",
+      "example": "Dashboard KHÔNG hỗ trợ endorsement badge.",
+      "tags": [
+        "web-clipping"
+      ],
+      "id": "6d6bab31-dbb8-4c61-85d4-026698a89ea6",
+      "review_level": 0,
+      "next_review": "2026-07-13T15:14:33.344Z",
+      "created_at": "2026-07-13T15:14:33.344Z",
+      "wrong_count": 0,
+      "status": "new"
+    },
+    {
       "word": "candidate",
       "phonetic": "/ˈkæn.dɪdət/",
       "meaning": "người ứng cử, thí sinh",
@@ -469,6 +499,22 @@
       "review_level": 0,
       "next_review": "2026-06-29T15:59:54.841Z",
       "created_at": "2026-06-29T15:59:54.841Z",
+      "wrong_count": 0,
+      "status": "new"
+    },
+    {
+      "word": "retire",
+      "phonetic": "",
+      "meaning": "rời bỏ, rút về; thôi, nghỉ việc, về hưu",
+      "description": "[noun] The act of retiring, or the state of being retired.; A place to which one retires.\n[verb] To stop working on a permanent basis, usually because of old age or illness.; (sometimes reflexive) To withdraw; to take away.",
+      "example": "",
+      "tags": [
+        "noun"
+      ],
+      "id": "fb3e2795-261c-49d5-9249-1770bc4b2d21",
+      "review_level": 0,
+      "next_review": "2026-07-16T15:36:05.309Z",
+      "created_at": "2026-07-16T15:36:05.309Z",
       "wrong_count": 0,
       "status": "new"
     }
