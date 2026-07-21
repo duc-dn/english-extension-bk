@@ -1,5 +1,5 @@
 {
-  "export_date": "2026-07-16T15:36:05.337Z",
+  "export_date": "2026-07-21T16:33:01.290Z",
   "words": [
     {
       "word": "Migrate",
@@ -350,6 +350,21 @@
       "status": "new"
     },
     {
+      "word": "burnout",
+      "phonetic": "",
+      "meaning": "Kiệt sức",
+      "example": "Đây có lẽ là điều mình muốn nhấn mạnh nhất, vì rất nhiều người bỏ qua. Bạn không thể học tốt trong trạng thái burnout. Bạn không thể tập trung khi cơ thể ì trệ. Và bạn chắc chắn không thể duy trì 4-6 tháng ôn thi nếu cắt bỏ mọi thứ khiến bạn vui.",
+      "tags": [
+        "web-clipping"
+      ],
+      "id": "7f0fef5f-1a1a-426f-8cd6-0493421592bd",
+      "review_level": 0,
+      "next_review": "2026-07-21T15:45:02.102Z",
+      "created_at": "2026-07-21T15:45:02.102Z",
+      "wrong_count": 0,
+      "status": "new"
+    },
+    {
       "word": "candidate",
       "phonetic": "/ˈkæn.dɪdət/",
       "meaning": "người ứng cử, thí sinh",
@@ -442,6 +457,20 @@
       "status": "new"
     },
     {
+      "word": "query folding",
+      "phonetic": "",
+      "meaning": "Đẩy truy vấn xuống nguồn dữ liệu.",
+      "description": "",
+      "example": "",
+      "tags": [],
+      "id": "cf20612e-5af1-4db6-abd9-f10e0140c30b",
+      "review_level": 0,
+      "next_review": "2026-07-21T16:33:01.248Z",
+      "created_at": "2026-07-21T16:33:01.248Z",
+      "wrong_count": 0,
+      "status": "new"
+    },
+    {
       "word": "Ensure that all the rows from the Employee table are preserved and include any matching rows from the Contract table.",
       "phonetic": "",
       "meaning": "Đảm bảo rằng tất cả các hàng từ bảng Nhân viên được giữ nguyên và bao gồm bất kỳ hàng phù hợp nào từ bảng Hợp đồng.",
@@ -468,6 +497,21 @@
       "review_level": 0,
       "next_review": "2026-06-21T15:27:57.015Z",
       "created_at": "2026-06-21T15:27:57.015Z",
+      "wrong_count": 0,
+      "status": "new"
+    },
+    {
+      "word": "Data Profiling",
+      "phonetic": "",
+      "meaning": "Lập hồ sơ dữ liệu",
+      "example": "Data Profiling",
+      "tags": [
+        "web-clipping"
+      ],
+      "id": "e9bcf247-16ea-43cf-9cce-2b0e535f75fc",
+      "review_level": 0,
+      "next_review": "2026-07-20T09:15:36.365Z",
+      "created_at": "2026-07-20T09:15:36.365Z",
       "wrong_count": 0,
       "status": "new"
     },
