@@ -1,5 +1,5 @@
 {
-  "export_date": "2026-10-17T11:28:10.212Z",
+  "export_date": "2026-10-17T15:38:20.403Z",
   "words": [
     {
       "word": "idempotent",
@@ -59,10 +59,10 @@
       "sourceTitle": "",
       "id": "4def784f-e5bd-42bf-a97f-51419a4954be",
       "review_level": 0,
-      "next_review": "2026-10-15T15:02:57.363Z",
+      "next_review": "2026-10-17T15:48:20.357Z",
       "created_at": "2026-10-15T15:02:57.363Z",
-      "wrong_count": 0,
-      "status": "new"
+      "wrong_count": 1,
+      "status": "learning"
     },
     {
       "word": "backpressure",
