@@ -1,623 +1,198 @@
 {
-  "export_date": "2026-07-21T16:33:01.290Z",
+  "export_date": "2026-10-17T11:28:10.212Z",
   "words": [
     {
-      "word": "Migrate",
-      "phonetic": "/maɪ.ˈɡɹeɪt/",
-      "meaning": "Chuyển",
-      "example": "E. Migrate the Employee table from Lakehouse1 to Lakehouse2.",
+      "word": "idempotent",
+      "phonetic": "/ˌaɪdəmˈpoʊtənt/",
+      "meaning": "có tính bất biến khi lặp lại, lũy đẳng",
+      "description": "adj - thuộc tính của thao tác mà khi thực hiện nhiều lần vẫn cho cùng kết quả",
+      "example": "We designed the write operation to be idempotent so that retries wouldn't create duplicate records.",
       "tags": [
-        "web-clipping"
+        "reliability",
+        "data-engineering",
+        "distributed-systems"
       ],
-      "id": "00119771-48ce-4ed3-abda-1c8d4ef82780",
+      "contextSentence": "We designed the write operation to be idempotent so that retries wouldn't create duplicate records.",
+      "sourceUrl": "",
+      "sourceTitle": "",
+      "id": "0a064ffc-a9a6-4d95-ad3e-4215c1ec7107",
       "review_level": 0,
-      "next_review": "2026-07-13T02:38:24.510Z",
-      "created_at": "2026-07-13T02:38:24.510Z",
+      "next_review": "2026-10-15T15:02:57.363Z",
+      "created_at": "2026-10-15T15:02:57.363Z",
       "wrong_count": 0,
       "status": "new"
     },
     {
-      "word": "exhibit",
-      "phonetic": "/ɛɡ-/",
-      "meaning": "trưng bày, triển lãm; vật trưng bày",
-      "example": "You are building a data orchestration pattern by using a Fabric data pipeline named Dynamic Data Copy as shown in the exhibit. (Click the Exhibit",
+      "word": "schema evolution",
+      "phonetic": "/ˈskiːmə ˌiːvəˈluːʃn/",
+      "meaning": "sự tiến hóa lược đồ dữ liệu",
+      "description": "noun - quá trình thay đổi cấu trúc dữ liệu theo thời gian mà không phá vỡ hệ thống",
+      "example": "Our data lake supports schema evolution, allowing analysts to add new columns without rewriting historical data.",
       "tags": [
-        "web-clipping"
+        "data-modeling",
+        "data-engineering",
+        "governance"
       ],
-      "id": "02d4271e-0f0b-499f-b638-0dd0d151860c",
-      "review_level": 1,
-      "next_review": "2026-06-21T09:10:19.790Z",
-      "created_at": "2026-06-14T16:29:50.594Z",
+      "contextSentence": "Our data lake supports schema evolution, allowing analysts to add new columns without rewriting historical data.",
+      "sourceUrl": "",
+      "sourceTitle": "",
+      "id": "170248f6-d67e-47b3-ae80-e7a12dcb5d1f",
+      "review_level": 0,
+      "next_review": "2026-10-15T15:02:57.363Z",
+      "created_at": "2026-10-15T15:02:57.363Z",
       "wrong_count": 0,
-      "status": "learning"
+      "status": "new"
     },
     {
-      "word": "Endorsement",
+      "word": "eventual consistency",
+      "phonetic": "/ɪˈventʃuəl kənˈsɪstənsi/",
+      "meaning": "nhất quán sau cùng",
+      "description": "noun - mô hình nhất quán trong đó dữ liệu sẽ đồng bộ sau một khoảng thời gian",
+      "example": "In our distributed store, we accept eventual consistency to achieve higher availability across regions.",
+      "tags": [
+        "distributed-systems",
+        "consistency",
+        "data-engineering"
+      ],
+      "contextSentence": "In our distributed store, we accept eventual consistency to achieve higher availability across regions.",
+      "sourceUrl": "",
+      "sourceTitle": "",
+      "id": "4def784f-e5bd-42bf-a97f-51419a4954be",
+      "review_level": 0,
+      "next_review": "2026-10-15T15:02:57.363Z",
+      "created_at": "2026-10-15T15:02:57.363Z",
+      "wrong_count": 0,
+      "status": "new"
+    },
+    {
+      "word": "backpressure",
+      "phonetic": "/ˈbækˌpreʃər/",
+      "meaning": "áp lực ngược, cơ chế chống quá tải",
+      "description": "noun - cơ chế kiểm soát luồng khi hệ thống nhận dữ liệu nhanh hơn khả năng xử lý",
+      "example": "The streaming job applied backpressure to slow down producers when the consumer lag grew too high.",
+      "tags": [
+        "streaming",
+        "performance",
+        "data-engineering"
+      ],
+      "contextSentence": "The streaming job applied backpressure to slow down producers when the consumer lag grew too high.",
+      "sourceUrl": "",
+      "sourceTitle": "",
+      "id": "81eeb78f-3a16-49cd-b3d3-323cabd681ca",
+      "review_level": 0,
+      "next_review": "2026-10-15T15:02:57.363Z",
+      "created_at": "2026-10-15T15:02:57.363Z",
+      "wrong_count": 0,
+      "status": "new"
+    },
+    {
+      "word": "in charge of",
       "phonetic": "",
-      "meaning": "Chứng thực",
-      "example": "Endorsement",
+      "meaning": "phụ trách",
+      "example": "You are in charge of the voting infrastructure and must ensure that the platform can handle the load and that all votes are processed.",
+      "contextSentence": "You are in charge of the voting infrastructure and must ensure that the platform can handle the load and that all votes are processed.",
+      "sourceUrl": "http://127.0.0.1:5500/GCP-PDE/GCP-PDE_Quiz_App.html",
+      "sourceTitle": "Google Cloud Professional Data Engineer - 308 Câu Hỏi Luyện Thi",
       "tags": [
         "web-clipping"
       ],
-      "id": "064282c7-cfe9-4eb5-a00f-65b38ddfc19f",
+      "description": "",
+      "id": "8fcfda08-c024-4f51-bdc7-4370cea3481c",
       "review_level": 0,
-      "next_review": "2026-07-15T08:33:53.951Z",
-      "created_at": "2026-07-15T08:33:53.951Z",
+      "next_review": "2026-10-15T16:12:46.671Z",
+      "created_at": "2026-10-15T16:12:46.671Z",
       "wrong_count": 0,
       "status": "new"
     },
     {
-      "word": "denormalize",
-      "phonetic": "",
-      "meaning": "phi chuẩn hóa",
-      "example": "You need to denormalize the tables and include the ContractType and StartDate columns in the Employee table. The solution must meet the",
+      "word": "accommodate",
+      "phonetic": "/əˈkɒmədeɪt/",
+      "meaning": "đáp ứng, chứa đựng, thích nghi",
+      "example": "Projects are further multiplied to accommodate different stages of deployments and target audiences.",
+      "contextSentence": "Projects are further multiplied to accommodate different stages of deployments and target audiences.",
+      "sourceUrl": "http://127.0.0.1:5500/GCP-PDE/GCP-PDE_Quiz_App.html",
+      "sourceTitle": "Google Cloud Professional Data Engineer - 308 Câu Hỏi Luyện Thi",
       "tags": [
         "web-clipping"
       ],
-      "id": "06891666-67f0-4049-aa15-68429704bb29",
+      "description": "",
+      "id": "edd40cc6-09a7-4852-8207-2e71a1eaa43a",
       "review_level": 0,
-      "next_review": "2026-06-15T08:13:47.196Z",
-      "created_at": "2026-06-15T08:13:47.196Z",
-      "wrong_count": 0,
-      "status": "new"
-    },
-    {
-      "word": "Enforced",
-      "phonetic": "/ɪnˈfɔːst/",
-      "meaning": "Bắt buộc",
-      "example": "Enforced",
-      "tags": [
-        "web-clipping"
-      ],
-      "id": "1067a31a-5ce8-42a9-9746-29d1a6be4520",
-      "review_level": 1,
-      "next_review": "2026-06-16T01:53:55.008Z",
-      "created_at": "2026-06-14T15:35:16.585Z",
-      "wrong_count": 0,
-      "status": "learning"
-    },
-    {
-      "word": "indicate",
-      "phonetic": "/ˈɪndɪkeɪt/",
-      "meaning": "chỉ, cho biết; biếu thị, trình bày ngắn gọn",
-      "example": "Business users perform ad-hoc queries against the warehouse. The business users indicate that reports against the warehouse sometimes run for",
-      "tags": [
-        "web-clipping"
-      ],
-      "id": "1220ba15-11c6-4a51-8fce-66d066e1deb0",
-      "review_level": 0,
-      "next_review": "2026-06-24T03:58:19.873Z",
-      "created_at": "2026-06-24T03:58:19.873Z",
-      "wrong_count": 0,
-      "status": "new"
-    },
-    {
-      "word": "representatives",
-      "phonetic": "/ˌɹɛpɹɪˈzɛntətɪvz/",
-      "meaning": "đại diện",
-      "example": "You need to ensure that the sales representatives can see only their respective data.",
-      "tags": [
-        "web-clipping"
-      ],
-      "id": "19b3a7bc-c8d0-4180-bb92-ef4f0aece8c1",
-      "review_level": 0,
-      "next_review": "2026-06-23T09:46:56.623Z",
-      "created_at": "2026-06-23T09:46:56.623Z",
-      "wrong_count": 0,
-      "status": "new"
-    },
-    {
-      "word": "Spill (Memory)",
-      "phonetic": "",
-      "meaning": "Tràn (Bộ nhớ)",
-      "example": "",
-      "tags": [
-        "lookup-popup"
-      ],
-      "id": "1a8539e3-8f85-4223-9989-0adf93e77251",
-      "review_level": 0,
-      "next_review": "2026-06-18T12:34:50.390Z",
-      "created_at": "2026-06-18T12:34:50.390Z",
-      "wrong_count": 0,
-      "status": "new"
-    },
-    {
-      "word": "endorse",
-      "phonetic": "/ɪnˈdɔːs/",
-      "meaning": "tán thành",
-      "example": "Which items can you endorse in Fabric?",
-      "tags": [
-        "web-clipping"
-      ],
-      "id": "1fb67d01-89d6-4843-8d34-a590bdca4b85",
-      "review_level": 1,
-      "next_review": "2026-06-21T13:52:56.962Z",
-      "created_at": "2026-06-14T16:34:42.810Z",
+      "next_review": "2026-10-17T11:18:31.351Z",
+      "created_at": "2026-10-15T16:24:21.950Z",
       "wrong_count": 2,
       "status": "learning"
     },
     {
-      "word": "retain",
-      "phonetic": "/ɹɪˈteɪn/",
-      "meaning": "giữ lại, nhớ được",
-      "example": "You need to resolve the issues. The solution must ensure that the data types of the results are retained. The results can contain blank cells.",
+      "word": "lineage",
+      "phonetic": "/ˈlɪniɪdʒ/",
+      "meaning": "dòng dõi dữ liệu, nguồn gốc dữ liệu",
+      "description": "noun - thông tin truy vết nguồn gốc và đường đi của dữ liệu qua các bước xử lý",
+      "example": "Data lineage helped us trace a reporting bug back to a faulty transformation three pipelines upstream.",
       "tags": [
-        "web-clipping"
+        "governance",
+        "data-engineering",
+        "observability"
       ],
-      "id": "2ae8301d-baa8-4a63-a0a2-4d43a0939d58",
+      "contextSentence": "Data lineage helped us trace a reporting bug back to a faulty transformation three pipelines upstream.",
+      "sourceUrl": "",
+      "sourceTitle": "",
+      "id": "feb3b17c-6620-44e7-97c9-71042014d13e",
       "review_level": 0,
-      "next_review": "2026-06-15T10:06:30.187Z",
-      "created_at": "2026-06-15T10:06:30.187Z",
-      "wrong_count": 0,
-      "status": "new"
-    },
-    {
-      "word": "partial",
-      "phonetic": "/ˈpɑːʃəl/",
-      "meaning": "Một phần",
-      "description": "",
-      "example": "",
-      "tags": [
-        "noun"
-      ],
-      "id": "32b9a3e3-22fc-4a1c-b0db-9379cd1d96c0",
-      "review_level": 1,
-      "next_review": "2026-06-21T13:52:53.604Z",
-      "created_at": "2026-06-14T16:33:01.677Z",
-      "wrong_count": 0,
-      "status": "learning"
-    },
-    {
-      "word": "must be omitted",
-      "phonetic": "",
-      "meaning": "phải được bỏ qua",
-      "example": "\"Some product categories and subcategories are NOT assigned to any product. They are NOT analytically relevant and must be omitted from the product dimension in the gold layer.\"",
-      "tags": [
-        "web-clipping"
-      ],
-      "id": "37bf61e2-cddc-4e54-84f1-54693ff09b84",
-      "review_level": 0,
-      "next_review": "2026-07-13T09:30:40.606Z",
-      "created_at": "2026-07-13T09:30:40.606Z",
-      "wrong_count": 0,
-      "status": "new"
-    },
-    {
-      "word": "surrogate keys",
-      "phonetic": "",
-      "meaning": "chìa khóa thay thế",
-      "example": "D. Modify the surrogate keys to use a different data type.",
-      "tags": [
-        "web-clipping"
-      ],
-      "id": "3cd4aa31-1da5-49a0-809d-282bf6a594b0",
-      "review_level": 0,
-      "next_review": "2026-06-23T14:51:50.049Z",
-      "created_at": "2026-06-23T14:51:50.049Z",
-      "wrong_count": 0,
-      "status": "new"
-    },
-    {
-      "word": "badge",
-      "phonetic": "/bædʒ/",
-      "meaning": "huy hiệu",
-      "example": "4 loại badge",
-      "tags": [
-        "web-clipping"
-      ],
-      "id": "41f6232c-132f-4a1c-9db4-130fd38780c7",
-      "review_level": 0,
-      "next_review": "2026-06-26T15:54:01.766Z",
-      "created_at": "2026-06-26T15:54:01.766Z",
-      "wrong_count": 0,
-      "status": "new"
-    },
-    {
-      "word": "provisioned",
-      "phonetic": "",
-      "meaning": "được cung cấp",
-      "example": "To control data platform costs, the data platform must use only Fabric services and items. Additional Azure resources must NOT be provisioned.",
-      "tags": [
-        "web-clipping"
-      ],
-      "id": "44133f52-6ef3-494b-bd56-d7c6612da06a",
-      "review_level": 0,
-      "next_review": "2026-06-28T15:48:05.317Z",
-      "created_at": "2026-06-28T15:48:05.317Z",
-      "wrong_count": 0,
-      "status": "new"
-    },
-    {
-      "word": "You need to apply endorsement badges to the entities based on each entity’s use case.",
-      "phonetic": "",
-      "meaning": "Bạn cần áp dụng huy hiệu chứng thực cho các thực thể dựa trên trường hợp sử dụng của từng thực thể.",
-      "example": "You need to apply endorsement badges to the entities based on each entity’s use case.",
-      "tags": [
-        "web-clipping"
-      ],
-      "id": "4bea91da-a730-479a-b17d-5abd030e092e",
-      "review_level": 0,
-      "next_review": "2026-07-13T08:36:44.008Z",
-      "created_at": "2026-07-13T08:36:44.008Z",
-      "wrong_count": 0,
-      "status": "new"
-    },
-    {
-      "word": "degraded",
-      "phonetic": "/dɪˈɡɹeɪdəd/",
-      "meaning": "xuống cấp",
-      "example": "While monitoring Warehouse1, you discover that query performance has degraded during the last 60 minutes.",
-      "tags": [
-        "web-clipping"
-      ],
-      "id": "4c11cfca-466d-4e93-83cf-d74ea5c92bfa",
-      "review_level": 0,
-      "next_review": "2026-07-09T07:45:18.295Z",
-      "created_at": "2026-07-09T07:45:18.295Z",
-      "wrong_count": 0,
-      "status": "new"
-    },
-    {
-      "word": "write-intensive",
-      "phonetic": "",
-      "meaning": "viết chuyên sâu",
-      "example": "You have a Fabric workspace that contains a write-intensive warehouse named DW1. DW1 stores staging tables that are used to load a",
-      "tags": [
-        "web-clipping"
-      ],
-      "id": "4d7aeaf7-24ca-4baf-9cdd-4a4c1962e4bc",
-      "review_level": 0,
-      "next_review": "2026-07-01T16:27:36.747Z",
-      "created_at": "2026-07-01T16:27:36.747Z",
-      "wrong_count": 0,
-      "status": "new"
-    },
-    {
-      "word": "Cumulative Sum",
-      "phonetic": "",
-      "meaning": "Tổng tích lũy",
-      "example": "\"Cumulative Sum\"",
-      "tags": [
-        "web-clipping"
-      ],
-      "id": "5d4db4c0-4e6b-462f-8a01-827fcbc9f14d",
-      "review_level": 0,
-      "next_review": "2026-07-04T17:08:44.645Z",
-      "created_at": "2026-07-04T17:08:44.645Z",
-      "wrong_count": 0,
-      "status": "new"
-    },
-    {
-      "word": "consolidate",
-      "phonetic": "/kənˈsɒlɪdeɪt/",
-      "meaning": "liên kết",
-      "example": "You need to consolidate the underlying Parquet files in Table1.",
-      "tags": [
-        "web-clipping",
-        "it-common"
-      ],
-      "id": "5d6062f6-7831-464a-8183-4c376d6a1873",
-      "review_level": 0,
-      "next_review": "2026-06-15T01:53:49.737Z",
-      "created_at": "2026-06-14T15:29:33.310Z",
-      "wrong_count": 1,
-      "status": "new",
-      "description": ""
-    },
-    {
-      "word": "Spill (Disk)",
-      "phonetic": "",
-      "meaning": "Tràn (Đĩa)",
-      "example": "",
-      "tags": [
-        "lookup-popup"
-      ],
-      "id": "62f1d733-d29e-4bf5-a7a7-7fb9da72104f",
-      "review_level": 0,
-      "next_review": "2026-06-18T12:34:58.576Z",
-      "created_at": "2026-06-18T12:34:58.576Z",
-      "wrong_count": 0,
-      "status": "new"
-    },
-    {
-      "word": "Ensure that all the rows from the Employee table are preserved and include any matching rows from the Contract table.",
-      "phonetic": "",
-      "meaning": "Đảm bảo rằng tất cả các hàng từ bảng Nhân viên được giữ nguyên và bao gồm bất kỳ hàng phù hợp nào từ bảng Hợp đồng.",
-      "example": "Ensure that all the rows from the Employee table are preserved and include any matching rows from the Contract table.",
-      "tags": [
-        "web-clipping"
-      ],
-      "id": "6420815c-40a0-4304-b433-1c8577e05aa5",
-      "review_level": 0,
-      "next_review": "2026-07-05T10:29:43.997Z",
-      "created_at": "2026-07-05T10:29:43.997Z",
-      "wrong_count": 0,
-      "status": "new"
-    },
-    {
-      "word": "endorsement badge",
-      "phonetic": "",
-      "meaning": "huy hiệu xác nhận",
-      "example": "Dashboard KHÔNG hỗ trợ endorsement badge.",
-      "tags": [
-        "web-clipping"
-      ],
-      "id": "6d6bab31-dbb8-4c61-85d4-026698a89ea6",
-      "review_level": 0,
-      "next_review": "2026-07-13T15:14:33.344Z",
-      "created_at": "2026-07-13T15:14:33.344Z",
-      "wrong_count": 0,
-      "status": "new"
-    },
-    {
-      "word": "burnout",
-      "phonetic": "",
-      "meaning": "Kiệt sức",
-      "example": "Đây có lẽ là điều mình muốn nhấn mạnh nhất, vì rất nhiều người bỏ qua. Bạn không thể học tốt trong trạng thái burnout. Bạn không thể tập trung khi cơ thể ì trệ. Và bạn chắc chắn không thể duy trì 4-6 tháng ôn thi nếu cắt bỏ mọi thứ khiến bạn vui.",
-      "tags": [
-        "web-clipping"
-      ],
-      "id": "7f0fef5f-1a1a-426f-8cd6-0493421592bd",
-      "review_level": 0,
-      "next_review": "2026-07-21T15:45:02.102Z",
-      "created_at": "2026-07-21T15:45:02.102Z",
-      "wrong_count": 0,
-      "status": "new"
-    },
-    {
-      "word": "candidate",
-      "phonetic": "/ˈkæn.dɪdət/",
-      "meaning": "người ứng cử, thí sinh",
-      "description": "[noun] A person who is running in an election.; A person who is applying for a job.\n[verb] To stand as a candidate for an office, especially a religious one.; (chiefly in jargon and NNES) To make or name (something) a candidate (for use, for study as a next project, for investigation as a possible cause of something, etc).",
-      "example": "",
-      "tags": [
-        "noun"
-      ],
-      "id": "845e3306-b951-42d2-aa04-2b4f8654416a",
-      "review_level": 0,
-      "next_review": "2026-06-15T09:11:12.607Z",
-      "created_at": "2026-06-15T09:11:12.607Z",
-      "wrong_count": 0,
-      "status": "new"
-    },
-    {
-      "word": "Distributed",
-      "phonetic": "/dɪsˈtɹɪbjutɪd/",
-      "meaning": "Được phân phối",
-      "example": "b. Distributed Executors: Airflow also supports distributed executors like the Celery Executor and the Kubernetes Executor. These executors distribute task execution across multiple worker nodes or containers, enabling parallel processing of tasks.",
-      "tags": [
-        "web-clipping"
-      ],
-      "id": "853e55dd-75bd-411f-b0ba-ef19bc8c888f",
-      "review_level": 1,
-      "next_review": "2026-06-15T14:12:48.297Z",
-      "created_at": "2026-06-13T12:57:25.021Z",
-      "wrong_count": 0,
-      "status": "learning",
-      "description": ""
-    },
-    {
-      "word": "propagated",
-      "phonetic": "",
-      "meaning": "tuyên truyền",
-      "example": "You discover that events are NOT being propagated to EventStreamDB1.",
-      "tags": [
-        "web-clipping"
-      ],
-      "id": "a01ff239-f7ce-47d6-b927-6d63392e0525",
-      "review_level": 0,
-      "next_review": "2026-06-24T09:51:12.650Z",
-      "created_at": "2026-06-24T09:51:12.650Z",
-      "wrong_count": 0,
-      "status": "new"
-    },
-    {
-      "word": "query performance has degraded during the last 60 minutes.",
-      "phonetic": "",
-      "meaning": "hiệu suất truy vấn đã bị suy giảm trong 60 phút qua.",
-      "example": "While monitoring Warehouse1, you discover that query performance has degraded during the last 60 minutes.",
-      "tags": [
-        "web-clipping"
-      ],
-      "id": "bdef57c7-5ad1-4812-a6c6-eb131684eefc",
-      "review_level": 0,
-      "next_review": "2026-07-01T16:41:45.341Z",
-      "created_at": "2026-07-01T16:41:45.341Z",
-      "wrong_count": 0,
-      "status": "new"
-    },
-    {
-      "word": "provision",
-      "phonetic": "/pɹəˈvɪʒ.ən/",
-      "meaning": "sự cung cấp",
-      "example": "To control data platform costs, the data platform must use only Fabric services and items. Additional Azure resources must NOT be provisioned.",
-      "tags": [
-        "web-clipping"
-      ],
-      "id": "be438c20-9d99-45f4-b28f-6a3f94e0b11e",
-      "review_level": 0,
-      "next_review": "2026-06-24T04:06:24.828Z",
-      "created_at": "2026-06-24T04:06:24.828Z",
-      "wrong_count": 0,
-      "status": "new"
-    },
-    {
-      "word": "Endorsement",
-      "phonetic": "",
-      "meaning": "Chứng thực",
-      "example": "Endorsement (chứng nhận dữ liệu)",
-      "tags": [
-        "web-clipping"
-      ],
-      "id": "cdec44d8-c553-4412-b4b0-9e1d9eba9f08",
-      "review_level": 0,
-      "next_review": "2026-06-26T15:54:09.111Z",
-      "created_at": "2026-06-26T15:54:09.111Z",
-      "wrong_count": 0,
-      "status": "new"
-    },
-    {
-      "word": "query folding",
-      "phonetic": "",
-      "meaning": "Đẩy truy vấn xuống nguồn dữ liệu.",
-      "description": "",
-      "example": "",
-      "tags": [],
-      "id": "cf20612e-5af1-4db6-abd9-f10e0140c30b",
-      "review_level": 0,
-      "next_review": "2026-07-21T16:33:01.248Z",
-      "created_at": "2026-07-21T16:33:01.248Z",
-      "wrong_count": 0,
-      "status": "new"
-    },
-    {
-      "word": "Ensure that all the rows from the Employee table are preserved and include any matching rows from the Contract table.",
-      "phonetic": "",
-      "meaning": "Đảm bảo rằng tất cả các hàng từ bảng Nhân viên được giữ nguyên và bao gồm bất kỳ hàng phù hợp nào từ bảng Hợp đồng.",
-      "example": "Ensure that all the rows from the Employee table are preserved and include any matching rows from the Contract table.",
-      "tags": [
-        "web-clipping"
-      ],
-      "id": "d514cd7b-8746-4eca-a3de-5ebe2fc56ad6",
-      "review_level": 0,
-      "next_review": "2026-06-29T16:16:46.983Z",
-      "created_at": "2026-06-29T16:16:46.983Z",
-      "wrong_count": 0,
-      "status": "new"
-    },
-    {
-      "word": "repartition",
-      "phonetic": "",
-      "meaning": "phân vùng lại",
-      "example": "repartition",
-      "tags": [
-        "web-clipping"
-      ],
-      "id": "e0936c44-b512-4d36-b06c-8f8f9a3843f0",
-      "review_level": 0,
-      "next_review": "2026-06-21T15:27:57.015Z",
-      "created_at": "2026-06-21T15:27:57.015Z",
-      "wrong_count": 0,
-      "status": "new"
-    },
-    {
-      "word": "Data Profiling",
-      "phonetic": "",
-      "meaning": "Lập hồ sơ dữ liệu",
-      "example": "Data Profiling",
-      "tags": [
-        "web-clipping"
-      ],
-      "id": "e9bcf247-16ea-43cf-9cce-2b0e535f75fc",
-      "review_level": 0,
-      "next_review": "2026-07-20T09:15:36.365Z",
-      "created_at": "2026-07-20T09:15:36.365Z",
-      "wrong_count": 0,
-      "status": "new"
-    },
-    {
-      "word": "opportunities",
-      "phonetic": "/ˌɒp.əˈtjuː.nɪ.tiz/",
-      "meaning": "tuyệt vời, cơ hội",
-      "description": "[noun] A chance for advancement, progress or profit.; A favorable circumstance or occasion.",
-      "example": "The world is full of opportunities and it's up to me to see them and pursue them.",
-      "tags": [
-        "noun"
-      ],
-      "id": "eb1df5e3-9958-41a3-9cbf-c697032ddc0d",
-      "review_level": 1,
-      "next_review": "2026-06-15T14:12:54.638Z",
-      "created_at": "2026-06-13T15:12:13.484Z",
-      "wrong_count": 0,
-      "status": "learning"
-    },
-    {
-      "word": "omitted from",
-      "phonetic": "",
-      "meaning": "bỏ qua",
-      "example": "Some product categories and subcategories are NOT assigned to any product. They are NOT analytically relevant and must be omitted from the",
-      "tags": [
-        "web-clipping"
-      ],
-      "id": "f7dcbf85-9c8d-43b6-8a46-3830ecd3288d",
-      "review_level": 0,
-      "next_review": "2026-06-29T15:59:54.841Z",
-      "created_at": "2026-06-29T15:59:54.841Z",
-      "wrong_count": 0,
-      "status": "new"
-    },
-    {
-      "word": "retire",
-      "phonetic": "",
-      "meaning": "rời bỏ, rút về; thôi, nghỉ việc, về hưu",
-      "description": "[noun] The act of retiring, or the state of being retired.; A place to which one retires.\n[verb] To stop working on a permanent basis, usually because of old age or illness.; (sometimes reflexive) To withdraw; to take away.",
-      "example": "",
-      "tags": [
-        "noun"
-      ],
-      "id": "fb3e2795-261c-49d5-9249-1770bc4b2d21",
-      "review_level": 0,
-      "next_review": "2026-07-16T15:36:05.309Z",
-      "created_at": "2026-07-16T15:36:05.309Z",
+      "next_review": "2026-10-15T15:02:57.363Z",
+      "created_at": "2026-10-15T15:02:57.363Z",
       "wrong_count": 0,
       "status": "new"
     }
   ],
   "grammar_notes": [],
-  "review_history": [
+  "review_history": [],
+  "todos": [
     {
-      "id": "0957e55a-63ec-40e2-8bdf-bb3e43b1c7f4",
-      "word_id": "1067a31a-5ce8-42a9-9746-29d1a6be4520",
-      "reviewed_at": "2026-06-15T01:53:55.010Z",
-      "score": "good"
+      "id": "5f992dbc-a735-434a-ab20-24ce6246f708",
+      "title": "Google Cloud Skills cho 2 accounts",
+      "description": "làm cho cả 2 mail edu",
+      "priority": "medium",
+      "status": "completed",
+      "dueDate": "2026-10-15",
+      "reminderAt": "",
+      "reminderNotified": false,
+      "tags": [
+        "English",
+        "Study"
+      ],
+      "createdAt": "2026-10-15T08:04:01.633Z",
+      "completedAt": "2026-10-15T14:14:49.344Z"
     },
     {
-      "id": "4771bed5-97eb-4ce0-a82f-070212250ab4",
-      "word_id": "1fb67d01-89d6-4843-8d34-a590bdca4b85",
-      "reviewed_at": "2026-06-20T13:52:56.964Z",
-      "score": "good"
+      "id": "849878d9-fb26-46da-8e33-aae1c676b2d2",
+      "title": "Update logic fiber bao hong model",
+      "description": "",
+      "priority": "medium",
+      "status": "completed",
+      "dueDate": "2026-10-16",
+      "reminderAt": "",
+      "reminderNotified": false,
+      "tags": [
+        "General"
+      ],
+      "createdAt": "2026-10-16T01:49:13.544Z",
+      "completedAt": "2026-10-16T08:54:15.593Z"
     },
     {
-      "id": "85c761cd-4d38-4eea-9c05-651d9e0ef980",
-      "word_id": "5d6062f6-7831-464a-8183-4c376d6a1873",
-      "reviewed_at": "2026-06-15T01:53:49.743Z",
-      "score": "hard"
-    },
-    {
-      "id": "88bb4e13-e760-433b-b8c9-a53a11f3b7bc",
-      "word_id": "eb1df5e3-9958-41a3-9cbf-c697032ddc0d",
-      "reviewed_at": "2026-06-14T14:12:54.641Z",
-      "score": "good"
-    },
-    {
-      "id": "991a5c42-4953-4eff-ab1c-1579c566d12a",
-      "word_id": "eb1df5e3-9958-41a3-9cbf-c697032ddc0d",
-      "reviewed_at": "2026-06-13T15:12:37.754Z",
-      "score": "hard"
-    },
-    {
-      "id": "9f4c9cff-fc7b-4334-9c97-0dcd2f9bf57e",
-      "word_id": "02d4271e-0f0b-499f-b638-0dd0d151860c",
-      "reviewed_at": "2026-06-20T09:10:19.793Z",
-      "score": "good"
-    },
-    {
-      "id": "aeb60df6-c438-4b31-a252-620941cd3714",
-      "word_id": "853e55dd-75bd-411f-b0ba-ef19bc8c888f",
-      "reviewed_at": "2026-06-13T15:12:28.485Z",
-      "score": "hard"
-    },
-    {
-      "id": "d4280247-df82-48e5-af48-307ba4e6cf31",
-      "word_id": "853e55dd-75bd-411f-b0ba-ef19bc8c888f",
-      "reviewed_at": "2026-06-14T14:12:48.299Z",
-      "score": "good"
-    },
-    {
-      "id": "fd52cd32-08dc-4aff-952c-3083010761a5",
-      "word_id": "32b9a3e3-22fc-4a1c-b0db-9379cd1d96c0",
-      "reviewed_at": "2026-06-20T13:52:53.607Z",
-      "score": "good"
+      "id": "90da7397-a2de-486f-b3f6-ffa9e7cc82b9",
+      "title": "Google Skills Lab mail e Hà",
+      "description": "",
+      "priority": "medium",
+      "status": "completed",
+      "dueDate": "2026-10-16",
+      "reminderAt": "",
+      "reminderNotified": false,
+      "tags": [
+        "General"
+      ],
+      "createdAt": "2026-10-16T01:48:15.687Z",
+      "completedAt": "2026-10-16T08:54:12.884Z"
     }
   ]
 }
