@@ -1,5 +1,5 @@
 {
-  "export_date": "2026-10-17T15:38:20.403Z",
+  "export_date": "2026-10-18T03:02:46.518Z",
   "words": [
     {
       "word": "idempotent",
@@ -65,6 +65,25 @@
       "status": "learning"
     },
     {
+      "word": "rollout",
+      "phonetic": "/ˈroʊlaʊt/",
+      "meaning": "sự triển khai, ra mắt (sản phẩm/dịch vụ)",
+      "example": "Chuyển một phần traffic sang model mới để kiểm tra trước khi rollout",
+      "contextSentence": "Chuyển một phần traffic sang model mới để kiểm tra trước khi rollout",
+      "sourceUrl": "https://chatgpt.com/c/6ad3ac6c-9c14-83ec-afd2-878c39fd1088",
+      "sourceTitle": "KServe nổi bật gì",
+      "tags": [
+        "web-clipping"
+      ],
+      "description": "",
+      "id": "793d7c06-9343-46ef-b51c-e8a763230d8c",
+      "review_level": 0,
+      "next_review": "2026-10-17T17:14:46.490Z",
+      "created_at": "2026-10-17T17:14:46.490Z",
+      "wrong_count": 0,
+      "status": "new"
+    },
+    {
       "word": "backpressure",
       "phonetic": "/ˈbækˌpreʃər/",
       "meaning": "áp lực ngược, cơ chế chống quá tải",
@@ -101,6 +120,25 @@
       "review_level": 0,
       "next_review": "2026-10-15T16:12:46.671Z",
       "created_at": "2026-10-15T16:12:46.671Z",
+      "wrong_count": 0,
+      "status": "new"
+    },
+    {
+      "word": "Decouple",
+      "phonetic": "/diːˈkʌpəl/",
+      "meaning": "tách rời, tách khỏi sự phụ thuộc",
+      "description": "[verb] to separate two or more things that were previously connected or dependent on each other; to remove the connection or relationship between two systems, ideas, or processes",
+      "example": "The company decided to decouple its software from the hardware.",
+      "tags": [
+        "verb"
+      ],
+      "contextSentence": "The company decided to decouple its software from the hardware.",
+      "sourceUrl": "",
+      "sourceTitle": "",
+      "id": "b8b8b7ab-05ec-4e92-bb4f-337a6bab07d3",
+      "review_level": 0,
+      "next_review": "2026-10-18T03:02:46.504Z",
+      "created_at": "2026-10-18T03:02:46.504Z",
       "wrong_count": 0,
       "status": "new"
     },
