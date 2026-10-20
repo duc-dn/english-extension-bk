@@ -1,5 +1,5 @@
 {
-  "export_date": "2026-10-18T03:16:28.333Z",
+  "export_date": "2026-10-20T14:18:41.381Z",
   "words": [
     {
       "word": "idempotent",
@@ -44,6 +44,44 @@
       "status": "new"
     },
     {
+      "word": "intent",
+      "phonetic": "/ɪnˈtent/",
+      "meaning": "ý định, mục đích",
+      "example": "You have reviewed old chat logs and tagged each conversation for intent based on each customer's stated intention for contacting customer service.",
+      "contextSentence": "You have reviewed old chat logs and tagged each conversation for intent based on each customer's stated intention for contacting customer service.",
+      "sourceUrl": "http://127.0.0.1:5500/GCP-PDE/GCP-PDE_Quiz_App.html",
+      "sourceTitle": "Google Cloud Professional Data Engineer - 308 Câu Hỏi Luyện Thi",
+      "tags": [
+        "web-clipping"
+      ],
+      "description": "",
+      "id": "19b8fdac-0030-4874-915d-08bd3b1a8387",
+      "review_level": 0,
+      "next_review": "2026-10-18T08:46:10.181Z",
+      "created_at": "2026-10-18T08:46:10.181Z",
+      "wrong_count": 0,
+      "status": "new"
+    },
+    {
+      "word": "decommissioning",
+      "phonetic": "/ˌdiːkəˈmɪʃənɪŋ/",
+      "meaning": "sự ngừng hoạt động và tháo dỡ (máy móc, hệ thống, cơ sở)",
+      "example": "You are migrating your data warehouse to Google Cloud and decommissioning your on-premises data center.",
+      "contextSentence": "You are migrating your data warehouse to Google Cloud and decommissioning your on-premises data center.",
+      "sourceUrl": "http://127.0.0.1:5500/GCP-PDE/GCP-PDE_Quiz_App.html",
+      "sourceTitle": "Google Cloud Professional Data Engineer - 308 Câu Hỏi Luyện Thi",
+      "tags": [
+        "web-clipping"
+      ],
+      "description": "",
+      "id": "469e5175-1b0b-4994-8dd3-dba56803ee86",
+      "review_level": 0,
+      "next_review": "2026-10-18T04:39:38.026Z",
+      "created_at": "2026-10-18T04:39:38.026Z",
+      "wrong_count": 0,
+      "status": "new"
+    },
+    {
       "word": "eventual consistency",
       "phonetic": "/ɪˈventʃuəl kənˈsɪstənsi/",
       "meaning": "nhất quán sau cùng",
@@ -65,6 +103,44 @@
       "status": "learning"
     },
     {
+      "word": "intermediary data",
+      "phonetic": "",
+      "meaning": "dữ liệu trung gian",
+      "example": "Allocate sufficient memory to the Hadoop cluster, so that the intermediary data of that particular Hadoop job can be held in memory",
+      "contextSentence": "Allocate sufficient memory to the Hadoop cluster, so that the intermediary data of that particular Hadoop job can be held in memory",
+      "sourceUrl": "http://127.0.0.1:5500/GCP-PDE/GCP-PDE_Quiz_App.html",
+      "sourceTitle": "Google Cloud Professional Data Engineer - 308 Câu Hỏi Luyện Thi",
+      "tags": [
+        "web-clipping"
+      ],
+      "description": "",
+      "id": "584bd8b5-a7c9-4366-9576-851d4ff9c969",
+      "review_level": 0,
+      "next_review": "2026-10-19T15:46:33.253Z",
+      "created_at": "2026-10-19T15:46:33.253Z",
+      "wrong_count": 0,
+      "status": "new"
+    },
+    {
+      "word": "Your solution should comply with the following requirements",
+      "phonetic": "",
+      "meaning": "Giải pháp của bạn phải tuân thủ các yêu cầu sau",
+      "example": "Your solution should comply with the following requirements: (1) Each department should have access only to their data.",
+      "contextSentence": "Your solution should comply with the following requirements: (1) Each department should have access only to their data.",
+      "sourceUrl": "http://127.0.0.1:5500/GCP-PDE/GCP-PDE_Quiz_App.html",
+      "sourceTitle": "Google Cloud Professional Data Engineer - 308 Câu Hỏi Luyện Thi",
+      "tags": [
+        "web-clipping"
+      ],
+      "description": "",
+      "id": "5f878aaa-6be1-4ab9-97b3-5ca45dfde73a",
+      "review_level": 0,
+      "next_review": "2026-10-19T15:55:00.201Z",
+      "created_at": "2026-10-19T15:55:00.201Z",
+      "wrong_count": 0,
+      "status": "new"
+    },
+    {
       "word": "rollout",
       "phonetic": "/ˈroʊlaʊt/",
       "meaning": "sự triển khai, ra mắt (sản phẩm/dịch vụ)",
@@ -80,6 +156,25 @@
       "review_level": 0,
       "next_review": "2026-10-17T17:14:46.490Z",
       "created_at": "2026-10-17T17:14:46.490Z",
+      "wrong_count": 0,
+      "status": "new"
+    },
+    {
+      "word": "Allocate sufficient persistent disk space",
+      "phonetic": "",
+      "meaning": "Phân bổ đủ dung lượng đĩa lưu trữ bền vững",
+      "example": "Allocate sufficient persistent disk space to the Hadoop cluster, and store the intermediate data of that particular Hadoop job on native HDFS",
+      "contextSentence": "Allocate sufficient persistent disk space to the Hadoop cluster, and store the intermediate data of that particular Hadoop job on native HDFS",
+      "sourceUrl": "http://127.0.0.1:5500/GCP-PDE/GCP-PDE_Quiz_App.html",
+      "sourceTitle": "Google Cloud Professional Data Engineer - 308 Câu Hỏi Luyện Thi",
+      "tags": [
+        "web-clipping"
+      ],
+      "description": "",
+      "id": "7fad2aed-79b9-44d9-adb3-8f650d92cea9",
+      "review_level": 0,
+      "next_review": "2026-10-19T15:48:25.125Z",
+      "created_at": "2026-10-19T15:48:25.125Z",
       "wrong_count": 0,
       "status": "new"
     },
@@ -270,6 +365,20 @@
   "grammar_notes": [],
   "review_history": [],
   "todos": [
+    {
+      "id": "241bcbf1-3d03-4c82-8156-37359f344408",
+      "title": "Xử lý 2 task EZTAX",
+      "description": "",
+      "priority": "medium",
+      "status": "pending",
+      "dueDate": "2026-10-20",
+      "reminderAt": "",
+      "reminderNotified": false,
+      "tags": [
+        "General"
+      ],
+      "createdAt": "2026-10-20T14:18:41.331Z"
+    },
     {
       "id": "5f992dbc-a735-434a-ab20-24ce6246f708",
       "title": "Google Cloud Skills cho 2 accounts",
