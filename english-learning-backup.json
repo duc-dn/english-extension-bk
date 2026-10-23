@@ -1,5 +1,5 @@
 {
-  "export_date": "2026-10-20T14:18:41.381Z",
+  "export_date": "2026-10-23T01:37:43.878Z",
   "words": [
     {
       "word": "idempotent",
@@ -19,6 +19,44 @@
       "review_level": 0,
       "next_review": "2026-10-15T15:02:57.363Z",
       "created_at": "2026-10-15T15:02:57.363Z",
+      "wrong_count": 0,
+      "status": "new"
+    },
+    {
+      "word": "preemptibles",
+      "phonetic": "/prɪˈɛmptɪbəlz/",
+      "meaning": "máy ảo có thể bị thu hồi (trong ngữ cảnh Google Cloud/Dataproc: các VM 'preemptible' — giá rẻ hơn nhưng có thể bị hệ thống thu hồi/tắt bất cứ lúc nào để nhường tài nguyên; dùng để tiết kiệm chi phí)",
+      "example": "You need to keep in mind that your organization is very cost-sensitive, so you'd like to continue using Dataproc on preemptibles (with 2 non-preemptible workers only) for this workload.",
+      "contextSentence": "You need to keep in mind that your organization is very cost-sensitive, so you'd like to continue using Dataproc on preemptibles (with 2 non-preemptible workers only) for this workload.",
+      "sourceUrl": "http://127.0.0.1:5500/GCP-PDE/GCP-PDE_Quiz_App.html",
+      "sourceTitle": "Google Cloud Professional Data Engineer - 308 Câu Hỏi Luyện Thi",
+      "tags": [
+        "web-clipping"
+      ],
+      "description": "",
+      "id": "0ea34b85-0b81-4eb4-8e72-146c650f940d",
+      "review_level": 0,
+      "next_review": "2026-10-20T15:24:06.688Z",
+      "created_at": "2026-10-20T15:24:06.688Z",
+      "wrong_count": 0,
+      "status": "new"
+    },
+    {
+      "word": "ephemeral",
+      "phonetic": "/ɪˈfemərəl/",
+      "meaning": "tạm thời, ngắn hạn (chỉ tồn tại trong thời gian ngắn)",
+      "example": "Lifting the Spark/Hive jobs to Dataproc and replacing HDFS with Cloud Storage is achievable in 2 months and lets you use ephemeral, right-sized clusters for cost savings; modernizing to Dataflow/BigQuery can follow later.",
+      "contextSentence": "Lifting the Spark/Hive jobs to Dataproc and replacing HDFS with Cloud Storage is achievable in 2 months and lets you use ephemeral, right-sized clusters for cost savings; modernizing to Dataflow/BigQuery can follow later.",
+      "sourceUrl": "http://127.0.0.1:5500/GCP-PDE/GCP-PDE_Quiz_App.html",
+      "sourceTitle": "Google Cloud Professional Data Engineer - 308 Câu Hỏi Luyện Thi",
+      "tags": [
+        "web-clipping"
+      ],
+      "description": "",
+      "id": "1591a115-5e52-4ba0-93d5-e2d415107d77",
+      "review_level": 0,
+      "next_review": "2026-10-21T16:16:29.987Z",
+      "created_at": "2026-10-21T16:16:29.987Z",
       "wrong_count": 0,
       "status": "new"
     },
@@ -59,6 +97,63 @@
       "review_level": 0,
       "next_review": "2026-10-18T08:46:10.181Z",
       "created_at": "2026-10-18T08:46:10.181Z",
+      "wrong_count": 0,
+      "status": "new"
+    },
+    {
+      "word": "regression",
+      "phonetic": "/rɪˈɡreʃ.ən/",
+      "meaning": "hồi quy (phương pháp học có giám sát dự đoán một giá trị số liên tục)",
+      "example": "Predicting a continuous numeric value (a stock price) is a regression problem, so a regressor is needed; a classifier predicts discrete classes, and unsupervised/clustering methods do not use labels.",
+      "contextSentence": "Predicting a continuous numeric value (a stock price) is a regression problem, so a regressor is needed; a classifier predicts discrete classes, and unsupervised/clustering methods do not use labels.",
+      "sourceUrl": "http://127.0.0.1:5500/GCP-PDE/GCP-PDE_Quiz_App.html",
+      "sourceTitle": "Google Cloud Professional Data Engineer - 308 Câu Hỏi Luyện Thi",
+      "tags": [
+        "web-clipping"
+      ],
+      "description": "",
+      "id": "1bc1b9b2-55c5-4845-8fd7-97312a0ad470",
+      "review_level": 0,
+      "next_review": "2026-10-22T15:55:49.039Z",
+      "created_at": "2026-10-22T15:55:49.039Z",
+      "wrong_count": 0,
+      "status": "new"
+    },
+    {
+      "word": "convolutional layers",
+      "phonetic": "",
+      "meaning": "Các lớp tích chập",
+      "example": "Which two of these statements about convolutional layers are true?",
+      "contextSentence": "Which two of these statements about convolutional layers are true?",
+      "sourceUrl": "http://127.0.0.1:5500/GCP-PDE/GCP-PDE_Quiz_App.html",
+      "sourceTitle": "Google Cloud Professional Data Engineer - 308 Câu Hỏi Luyện Thi",
+      "tags": [
+        "web-clipping"
+      ],
+      "description": "",
+      "id": "1d21fc1c-7e5f-4709-9d48-015113c60b86",
+      "review_level": 0,
+      "next_review": "2026-10-22T16:16:11.390Z",
+      "created_at": "2026-10-22T16:16:11.390Z",
+      "wrong_count": 0,
+      "status": "new"
+    },
+    {
+      "word": "egress",
+      "phonetic": "/ˈiːɡres/",
+      "meaning": "Lưu lượng dữ liệu ra (egress traffic) – chi phí truyền dữ liệu ra khỏi hệ thống/mạng, thường gặp trong dịch vụ đám mây (cloud egress fees)",
+      "example": "Chi phí egress cao hơn một chút.",
+      "contextSentence": "Chi phí egress cao hơn một chút.",
+      "sourceUrl": "https://github.com/duc-dn/certificate-dumps/blob/main/GCP-PDE/08_Google_Cloud_Networking_VPC_Guide.md",
+      "sourceTitle": "certificate-dumps/GCP-PDE/08_Google_Cloud_Networking_VPC_Guide.md at main · duc-dn/certificate-dumps",
+      "tags": [
+        "web-clipping"
+      ],
+      "description": "",
+      "id": "2f6c3fb4-3a48-4640-ae04-73161e241767",
+      "review_level": 0,
+      "next_review": "2026-10-22T15:23:04.099Z",
+      "created_at": "2026-10-22T15:23:04.099Z",
       "wrong_count": 0,
       "status": "new"
     },
@@ -193,11 +288,11 @@
       "sourceUrl": "",
       "sourceTitle": "",
       "id": "816bc779-870f-4f0e-84a9-e52ad7658e40",
-      "review_level": 0,
+      "review_level": 5,
       "next_review": "2026-10-18T03:16:28.324Z",
       "created_at": "2026-10-18T03:16:28.324Z",
       "wrong_count": 0,
-      "status": "new"
+      "status": "mastered"
     },
     {
       "word": "backpressure",
@@ -217,6 +312,44 @@
       "review_level": 0,
       "next_review": "2026-10-15T15:02:57.363Z",
       "created_at": "2026-10-15T15:02:57.363Z",
+      "wrong_count": 0,
+      "status": "new"
+    },
+    {
+      "word": "decouples",
+      "phonetic": "/diːˈkʌpəlz/",
+      "meaning": "tách rời (các nhà sản xuất khỏi người tiêu dùng, giúp hai bên hoạt động độc lập, không phụ thuộc trực tiếp vào nhau)",
+      "example": "Pub/Sub decouples producers and consumers, and Dataflow writing Avro to Cloud Storage (space- and cost-efficient raw storage) plus BigQuery gives near real-time SQL and long-term retention.",
+      "contextSentence": "Pub/Sub decouples producers and consumers, and Dataflow writing Avro to Cloud Storage (space- and cost-efficient raw storage) plus BigQuery gives near real-time SQL and long-term retention.",
+      "sourceUrl": "http://127.0.0.1:5500/GCP-PDE/GCP-PDE_Quiz_App.html",
+      "sourceTitle": "Google Cloud Professional Data Engineer - 308 Câu Hỏi Luyện Thi",
+      "tags": [
+        "web-clipping"
+      ],
+      "description": "",
+      "id": "83202d93-9e0a-4e75-86d0-da01b476918c",
+      "review_level": 0,
+      "next_review": "2026-10-21T04:26:10.076Z",
+      "created_at": "2026-10-21T04:26:10.076Z",
+      "wrong_count": 0,
+      "status": "new"
+    },
+    {
+      "word": "likelihood",
+      "phonetic": "/ˈlaɪklihʊd/",
+      "meaning": "khả năng (một khách hàng sẽ mua sản phẩm), xác suất",
+      "example": "You are working on a linear regression model on BigQuery ML to predict a customer's likelihood of purchasing your company's products.",
+      "contextSentence": "You are working on a linear regression model on BigQuery ML to predict a customer's likelihood of purchasing your company's products.",
+      "sourceUrl": "http://127.0.0.1:5500/GCP-PDE/GCP-PDE_Quiz_App.html",
+      "sourceTitle": "Google Cloud Professional Data Engineer - 308 Câu Hỏi Luyện Thi",
+      "tags": [
+        "web-clipping"
+      ],
+      "description": "",
+      "id": "85f7f09f-e39d-4c90-a9f7-1f199b875e34",
+      "review_level": 0,
+      "next_review": "2026-10-22T15:40:43.098Z",
+      "created_at": "2026-10-22T15:40:43.098Z",
       "wrong_count": 0,
       "status": "new"
     },
@@ -261,6 +394,25 @@
       "status": "new"
     },
     {
+      "word": "fusion",
+      "phonetic": "/ˈfjuːʒn/",
+      "meaning": "sự hợp nhất / sự gộp chung (trong ngữ cảnh CNTT: kỹ thuật tối ưu hóa gộp nhiều bước xử lý thành một bước duy nhất, đặc biệt là trong Dataflow/Apache Beam)",
+      "example": "You want to prevent the fusion optimization used by Dataflow so that incorrectly performed optimizations are avoided.",
+      "contextSentence": "You want to prevent the fusion optimization used by Dataflow so that incorrectly performed optimizations are avoided.",
+      "sourceUrl": "http://127.0.0.1:5500/GCP-PDE/GCP-PDE_Quiz_App.html",
+      "sourceTitle": "Google Cloud Professional Data Engineer - 308 Câu Hỏi Luyện Thi",
+      "tags": [
+        "web-clipping"
+      ],
+      "description": "",
+      "id": "ab7569db-5e5f-4b6b-a458-39a2ee2a2761",
+      "review_level": 0,
+      "next_review": "2026-10-20T15:13:47.729Z",
+      "created_at": "2026-10-20T15:13:47.729Z",
+      "wrong_count": 0,
+      "status": "new"
+    },
+    {
       "word": "Decouple",
       "phonetic": "/diːˈkʌpəl/",
       "meaning": "tách rời, tách khỏi sự phụ thuộc",
@@ -276,6 +428,25 @@
       "review_level": 0,
       "next_review": "2026-10-18T03:02:46.504Z",
       "created_at": "2026-10-18T03:02:46.504Z",
+      "wrong_count": 0,
+      "status": "new"
+    },
+    {
+      "word": "Sentiment",
+      "phonetic": "/ˈsen.tɪ.mənt/",
+      "meaning": "Cảm xúc, tình cảm, thái độ, quan điểm",
+      "example": "Sentiment",
+      "contextSentence": "Sentiment",
+      "sourceUrl": "http://127.0.0.1:5500/GCP-PDE/GCP-PDE_Quiz_App.html",
+      "sourceTitle": "Google Cloud Professional Data Engineer - 308 Câu Hỏi Luyện Thi",
+      "tags": [
+        "web-clipping"
+      ],
+      "description": "",
+      "id": "bf12c32f-6e12-456f-8f8a-e2c179191391",
+      "review_level": 0,
+      "next_review": "2026-10-22T16:09:16.035Z",
+      "created_at": "2026-10-22T16:09:16.035Z",
       "wrong_count": 0,
       "status": "new"
     },
@@ -297,6 +468,25 @@
       "review_level": 0,
       "next_review": "2026-10-18T03:16:28.324Z",
       "created_at": "2026-10-18T03:16:28.324Z",
+      "wrong_count": 0,
+      "status": "new"
+    },
+    {
+      "word": "artifacts",
+      "phonetic": "/ˈɑːrtɪfækts/",
+      "meaning": "các sản phẩm đầu ra (trong ngữ cảnh CNTT/ML pipeline: các tệp kết quả được tạo ra trong quá trình xử lý như thống kê dữ liệu, checkpoint mô hình, kết quả đánh giá...)",
+      "example": "Track key inputs and output artifacts of the pipeline steps, like dataset statistics, dataset anomalies (if any), transformed data and schemas, model checkpoints, and model evaluation results.",
+      "contextSentence": "Track key inputs and output artifacts of the pipeline steps, like dataset statistics, dataset anomalies (if any), transformed data and schemas, model checkpoints, and model evaluation results.",
+      "sourceUrl": "http://127.0.0.1:5500/GCP-PDE/GCP-PDE_Quiz_App.html",
+      "sourceTitle": "Google Cloud Professional Data Engineer - 308 Câu Hỏi Luyện Thi",
+      "tags": [
+        "web-clipping"
+      ],
+      "description": "",
+      "id": "dbe216ba-5256-44a2-903b-0d63fdbdf9f6",
+      "review_level": 0,
+      "next_review": "2026-10-20T15:35:13.888Z",
+      "created_at": "2026-10-20T15:35:13.888Z",
       "wrong_count": 0,
       "status": "new"
     },
@@ -355,11 +545,11 @@
       "sourceUrl": "",
       "sourceTitle": "",
       "id": "feb3b17c-6620-44e7-97c9-71042014d13e",
-      "review_level": 0,
+      "review_level": 5,
       "next_review": "2026-10-15T15:02:57.363Z",
       "created_at": "2026-10-15T15:02:57.363Z",
       "wrong_count": 0,
-      "status": "new"
+      "status": "mastered"
     }
   ],
   "grammar_notes": [],
@@ -424,6 +614,20 @@
       ],
       "createdAt": "2026-10-16T01:48:15.687Z",
       "completedAt": "2026-10-16T08:54:12.884Z"
+    },
+    {
+      "id": "cfffc4e5-4b41-4cec-a98b-85b66805b20b",
+      "title": "Deep dive Spark, DuckDB, Iceberg",
+      "description": "",
+      "priority": "medium",
+      "status": "pending",
+      "dueDate": "2026-12-23",
+      "reminderAt": "",
+      "reminderNotified": false,
+      "tags": [
+        "General"
+      ],
+      "createdAt": "2026-10-23T01:37:43.829Z"
     }
   ]
 }
