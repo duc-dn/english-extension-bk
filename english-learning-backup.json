@@ -1,5 +1,5 @@
 {
-  "export_date": "2026-10-23T04:10:41.854Z",
+  "export_date": "2026-10-24T13:16:58.029Z",
   "words": [
     {
       "word": "idempotent",
@@ -350,6 +350,25 @@
       "review_level": 0,
       "next_review": "2026-10-22T15:40:43.098Z",
       "created_at": "2026-10-22T15:40:43.098Z",
+      "wrong_count": 0,
+      "status": "new"
+    },
+    {
+      "word": "glossary",
+      "phonetic": "/ˈɡlɒsəri/",
+      "meaning": "bảng chú giải thuật ngữ",
+      "description": "[noun] A list of terms in a special subject, field, or area of usage, with accompanying definitions.",
+      "example": "The textbook includes a glossary of technical terms at the end.",
+      "tags": [
+        "noun"
+      ],
+      "contextSentence": "The textbook includes a glossary of technical terms at the end.",
+      "sourceUrl": "",
+      "sourceTitle": "",
+      "id": "8ddf4030-c6d6-4838-9cad-4268cf06df06",
+      "review_level": 0,
+      "next_review": "2026-10-24T13:16:57.992Z",
+      "created_at": "2026-10-24T13:16:57.992Z",
       "wrong_count": 0,
       "status": "new"
     },
