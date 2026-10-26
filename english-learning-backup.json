@@ -1,5 +1,5 @@
 {
-  "export_date": "2026-10-26T16:42:08.893Z",
+  "export_date": "2026-10-26T16:42:27.466Z",
   "words": [
     {
       "word": "idempotent",
@@ -1349,6 +1349,66 @@
             ],
             "correctAnswer": 1,
             "explanation": "Suy đoán quá khứ có căn cứ hợp lý: \"chắc chắn anh ấy đã bị kẹt xe\" -> must have been caught (dạng bị động)."
+          },
+          {
+            "id": "9aa3f92a-ca3e-4d08-8f73-ef5b7e4b7c2b",
+            "question": "The client's feedback was extremely positive, and they immediately signed the contract. The presentation ______ very convincing.",
+            "options": [
+              "must be",
+              "must have been",
+              "should have been",
+              "can't have been"
+            ],
+            "correctAnswer": 1,
+            "explanation": "Đáp án đúng là 'must have been' vì dựa trên bằng chứng hiện tại (phản hồi tích cực và ký hợp đồng ngay), ta suy đoán chắc chắn rằng bài thuyết trình đã rất thuyết phục trong quá khứ. 'Must be' là hiện tại, không phù hợp. 'Should have been' nghĩa là đáng lẽ nên (nhưng có thể đã không), không khớp với ngữ cảnh chắc chắn. 'Can't have been' là chắc chắn không thể, trái nghĩa."
+          },
+          {
+            "id": "f0346b39-2526-4ecd-b00e-244ca3b3b868",
+            "question": "The report is due tomorrow, but John hasn't started working on it yet. He ______ about the deadline.",
+            "options": [
+              "must forget",
+              "must have forgotten",
+              "should have forgotten",
+              "can't have forgotten"
+            ],
+            "correctAnswer": 1,
+            "explanation": "Chọn 'must have forgotten' vì có bằng chứng hiện tại (báo cáo đến hạn mà John chưa làm) dẫn đến suy đoán chắc chắn rằng anh ấy đã quên hạn chót trong quá khứ. 'Must forget' là hiện tại. 'Should have forgotten' là đáng lẽ nên quên (vô lý). 'Can't have forgotten' là chắc chắn không thể quên, không hợp lý với ngữ cảnh."
+          },
+          {
+            "id": "e4b42064-c81e-4564-9f48-10c64b9b913c",
+            "question": "The team ______ the new software before launching it; now they are dealing with multiple bugs and customer complaints.",
+            "options": [
+              "must have tested",
+              "can't have tested",
+              "should have tested",
+              "shouldn't have tested"
+            ],
+            "correctAnswer": 2,
+            "explanation": "Đáp án là 'should have tested' vì diễn tả sự tiếc nuối: đáng lẽ nhóm đã nên kiểm thử phần mềm trước khi ra mắt, nhưng họ đã không làm, dẫn đến hậu quả hiện tại. 'Must have tested' là chắc chắn đã kiểm thử (trái với thực tế). 'Can't have tested' là chắc chắn không thể kiểm thử (không diễn tả tiếc nuối). 'Shouldn't have tested' là đáng lẽ không nên kiểm thử (sai nghĩa)."
+          },
+          {
+            "id": "653a6c43-b904-406f-8f3f-860b5324b821",
+            "question": "The manager was in a meeting all morning, so she ______ the email you sent at 10 AM.",
+            "options": [
+              "must have read",
+              "can't have read",
+              "should have read",
+              "could have read"
+            ],
+            "correctAnswer": 1,
+            "explanation": "Chọn 'can't have read' vì có bằng chứng chắc chắn (quản lý họp cả buổi sáng) dẫn đến suy đoán rằng cô ấy chắc chắn không thể đã đọc email lúc 10 giờ. 'Must have read' là chắc chắn đã đọc (trái ngược). 'Should have read' là đáng lẽ nên đọc (không phù hợp vì không phải tiếc nuối). 'Could have read' là có thể đã đọc (không diễn tả sự chắc chắn không thể)."
+          },
+          {
+            "id": "ee257767-dc64-40c8-96ee-db812d3dd353",
+            "question": "The figures in the quarterly report are inconsistent. The accounting department ______ a mistake in the calculations.",
+            "options": [
+              "must have made",
+              "can't have made",
+              "should have made",
+              "shouldn't have made"
+            ],
+            "correctAnswer": 0,
+            "explanation": "Đáp án là 'must have made' vì dựa trên bằng chứng hiện tại (số liệu không nhất quán), ta suy đoán chắc chắn rằng phòng kế toán đã mắc lỗi trong tính toán. 'Can't have made' là chắc chắn không thể mắc lỗi (trái nghĩa). 'Should have made' là đáng lẽ nên mắc lỗi (vô lý). 'Shouldn't have made' là đáng lẽ không nên mắc lỗi (không diễn tả suy đoán chắc chắn)."
           }
         ],
         "translation": [
@@ -1358,6 +1418,27 @@
             "hint": "He couldn't have seen me yesterday because I was abroad.",
             "suggestedEnglish": "He can't have seen me yesterday because I was abroad.",
             "targetGrammarPoint": "Can't have V3 (Past Deduction)"
+          },
+          {
+            "id": "684a304c-199c-436d-946c-76472554270d",
+            "vietnamese": "Khách hàng đã rời cuộc họp mà không nói một lời nào. Chắc hẳn anh ấy đã rất thất vọng với đề xuất của chúng ta.",
+            "hint": "Dùng 'must have + V3/ed' để diễn tả suy đoán chắc chắn dựa trên bằng chứng (khách hàng rời đi không nói gì). Từ vựng: disappointed (thất vọng), proposal (đề xuất).",
+            "suggestedEnglish": "The client left the meeting without saying a word. He must have been very disappointed with our proposal.",
+            "targetGrammarPoint": "Phỏng đoán quá khứ (Must / Can't / Should have V3)"
+          },
+          {
+            "id": "46f50794-594a-4f81-92a0-071d57de0ee1",
+            "vietnamese": "Đáng lẽ chúng ta nên kiểm tra kỹ hợp đồng trước khi ký; bây giờ có một điều khoản bất lợi mà chúng ta không thể thay đổi.",
+            "hint": "Dùng 'should have + V3/ed' để diễn tả sự tiếc nuối về một việc đáng lẽ nên làm trong quá khứ. Từ vựng: review carefully (kiểm tra kỹ), term (điều khoản), disadvantageous (bất lợi).",
+            "suggestedEnglish": "We should have reviewed the contract carefully before signing it; now there is a disadvantageous term that we cannot change.",
+            "targetGrammarPoint": "Phỏng đoán quá khứ (Must / Can't / Should have V3)"
+          },
+          {
+            "id": "59a7ea18-8812-48be-b395-74410387eaff",
+            "vietnamese": "Cô ấy đã ở nước ngoài cả tuần trước, vì vậy cô ấy chắc chắn không thể tham dự cuộc họp đó.",
+            "hint": "Dùng 'can't have + V3/ed' để diễn tả suy đoán chắc chắn không thể xảy ra trong quá khứ dựa trên bằng chứng. Từ vựng: abroad (ở nước ngoài), attend (tham dự).",
+            "suggestedEnglish": "She was abroad all last week, so she can't have attended that meeting.",
+            "targetGrammarPoint": "Phỏng đoán quá khứ (Must / Can't / Should have V3)"
           }
         ]
       },
