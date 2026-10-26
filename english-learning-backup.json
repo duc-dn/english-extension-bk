@@ -1,5 +1,5 @@
 {
-  "export_date": "2026-10-24T13:16:58.029Z",
+  "export_date": "2026-10-26T02:07:14.149Z",
   "words": [
     {
       "word": "idempotent",
@@ -158,6 +158,44 @@
       "status": "new"
     },
     {
+      "word": "exchange",
+      "phonetic": "/ɪksˈtʃeɪndʒ/",
+      "meaning": "Trao đổi dữ liệu (thuật ngữ chuyên ngành trong xử lý dữ liệu phân tán/Spark: pha trao đổi dữ liệu giữa các node, còn gọi là shuffle exchange)",
+      "example": ": giữ mặc định Spark SQL; exchange groupBy dùng",
+      "contextSentence": ": giữ mặc định Spark SQL; exchange groupBy dùng",
+      "sourceUrl": "https://chatgpt.com/c/6ade1b18-f248-83ec-91cb-51f6957ec4d2",
+      "sourceTitle": "Ôn tập Spark phỏng vấn",
+      "tags": [
+        "web-clipping"
+      ],
+      "description": "",
+      "id": "3c57813b-30eb-4214-89ea-77fbb39c2f94",
+      "review_level": 0,
+      "next_review": "2026-10-25T16:49:40.076Z",
+      "created_at": "2026-10-25T16:49:40.076Z",
+      "wrong_count": 0,
+      "status": "new"
+    },
+    {
+      "word": "principles",
+      "phonetic": "/ˈprɪnsəpəlz/",
+      "meaning": "nguyên tắc (thiết kế lược đồ cơ sở dữ liệu)",
+      "example": "What are the main principles to take into consideration for the schema design?",
+      "contextSentence": "What are the main principles to take into consideration for the schema design?",
+      "sourceUrl": "https://cert-psi-umber.vercel.app/GCP-PDE/GCP-PDE_Quiz_App.html",
+      "sourceTitle": "Google Cloud Professional Data Engineer - 308 Câu Hỏi Luyện Thi",
+      "tags": [
+        "web-clipping"
+      ],
+      "description": "",
+      "id": "3f32bdd5-c6d5-4683-bdea-ede0dc24b58b",
+      "review_level": 0,
+      "next_review": "2026-10-25T08:50:40.793Z",
+      "created_at": "2026-10-25T08:50:40.793Z",
+      "wrong_count": 0,
+      "status": "new"
+    },
+    {
       "word": "decommissioning",
       "phonetic": "/ˌdiːkəˈmɪʃənɪŋ/",
       "meaning": "sự ngừng hoạt động và tháo dỡ (máy móc, hệ thống, cơ sở)",
@@ -196,6 +234,25 @@
       "created_at": "2026-10-15T15:02:57.363Z",
       "wrong_count": 1,
       "status": "learning"
+    },
+    {
+      "word": "insufficient",
+      "phonetic": "/ˌɪnsəˈfɪʃənt/",
+      "meaning": "không đủ",
+      "example": "You can no longer run the reports, because they either take too long or they encounter errors with insufficient compute resources.",
+      "contextSentence": "You can no longer run the reports, because they either take too long or they encounter errors with insufficient compute resources.",
+      "sourceUrl": "https://cert-psi-umber.vercel.app/GCP-PDE/GCP-PDE_Quiz_App.html",
+      "sourceTitle": "Google Cloud Professional Data Engineer - 308 Câu Hỏi Luyện Thi",
+      "tags": [
+        "web-clipping"
+      ],
+      "description": "",
+      "id": "53e43e73-26b3-4fc3-bed7-48af9b599df6",
+      "review_level": 0,
+      "next_review": "2026-10-24T14:04:30.942Z",
+      "created_at": "2026-10-24T14:04:30.942Z",
+      "wrong_count": 0,
+      "status": "new"
     },
     {
       "word": "intermediary data",
@@ -413,6 +470,63 @@
       "status": "new"
     },
     {
+      "word": "guarantees",
+      "phonetic": "/ˌɡærənˈtiːz/",
+      "meaning": "đảm bảo (rằng) — trong ngữ cảnh CNTT: giải pháp đảm bảo được khả năng vận hành production, giao hàng bất đồng bộ tới CRM và backfilling khi cần",
+      "example": "Your Company is already using Cloud Dataflow, Cloud Composer, Cloud Dataproc  What is the most cost-effective solution that guarantees production industrialization, async delivery to the CRM, and backfilling when needed?",
+      "contextSentence": "Your Company is already using Cloud Dataflow, Cloud Composer, Cloud Dataproc  What is the most cost-effective solution that guarantees production industrialization, async delivery to the CRM, and backfilling when needed?",
+      "sourceUrl": "https://cert-psi-umber.vercel.app/GCP-PDE/GCP-PDE_Quiz_App.html",
+      "sourceTitle": "Google Cloud Professional Data Engineer - 308 Câu Hỏi Luyện Thi",
+      "tags": [
+        "web-clipping"
+      ],
+      "description": "",
+      "id": "a59a7c14-9f9d-4f1e-b81d-e778bd0c5230",
+      "review_level": 0,
+      "next_review": "2026-10-25T09:47:44.336Z",
+      "created_at": "2026-10-25T09:47:44.336Z",
+      "wrong_count": 0,
+      "status": "new"
+    },
+    {
+      "word": "versus",
+      "phonetic": "/ˈvɜːrsəs/",
+      "meaning": "so với, thay vì (dùng để so sánh hai phương án)",
+      "example": "Use few large tables versus too many small tables",
+      "contextSentence": "Use few large tables versus too many small tables",
+      "sourceUrl": "https://cert-psi-umber.vercel.app/GCP-PDE/GCP-PDE_Quiz_App.html",
+      "sourceTitle": "Google Cloud Professional Data Engineer - 308 Câu Hỏi Luyện Thi",
+      "tags": [
+        "web-clipping"
+      ],
+      "description": "",
+      "id": "a8a8d6e8-f98d-4126-b129-5e786ffffb8d",
+      "review_level": 0,
+      "next_review": "2026-10-25T08:52:23.844Z",
+      "created_at": "2026-10-25T08:52:23.844Z",
+      "wrong_count": 0,
+      "status": "new"
+    },
+    {
+      "word": "conduct",
+      "phonetic": "/kənˈdʌkt/",
+      "meaning": "tiến hành, thực hiện",
+      "example": "you have been asked to use Google Cloud Services to move this backup, conduct preliminary analysis using ANSI SQL and then automate transformations with Apache Spark.",
+      "contextSentence": "you have been asked to use Google Cloud Services to move this backup, conduct preliminary analysis using ANSI SQL and then automate transformations with Apache Spark.",
+      "sourceUrl": "https://cert-psi-umber.vercel.app/GCP-PDE/GCP-PDE_Quiz_App.html",
+      "sourceTitle": "Google Cloud Professional Data Engineer - 308 Câu Hỏi Luyện Thi",
+      "tags": [
+        "web-clipping"
+      ],
+      "description": "",
+      "id": "aad6fb3f-28c0-4e54-b804-500a7338a9d6",
+      "review_level": 0,
+      "next_review": "2026-10-25T14:00:24.214Z",
+      "created_at": "2026-10-25T14:00:24.214Z",
+      "wrong_count": 0,
+      "status": "new"
+    },
+    {
       "word": "fusion",
       "phonetic": "/ˈfjuːʒn/",
       "meaning": "sự hợp nhất / sự gộp chung (trong ngữ cảnh CNTT: kỹ thuật tối ưu hóa gộp nhiều bước xử lý thành một bước duy nhất, đặc biệt là trong Dataflow/Apache Beam)",
@@ -491,6 +605,25 @@
       "status": "new"
     },
     {
+      "word": "consulting company",
+      "phonetic": "",
+      "meaning": "Công ty tư vấn",
+      "example": "You are working for a consulting company that offers BigQuery optimization services.",
+      "contextSentence": "You are working for a consulting company that offers BigQuery optimization services.",
+      "sourceUrl": "https://cert-psi-umber.vercel.app/GCP-PDE/GCP-PDE_Quiz_App.html",
+      "sourceTitle": "Google Cloud Professional Data Engineer - 308 Câu Hỏi Luyện Thi",
+      "tags": [
+        "web-clipping"
+      ],
+      "description": "",
+      "id": "d7bee03b-bdb1-4f02-bbe3-21314ec81302",
+      "review_level": 0,
+      "next_review": "2026-10-25T09:34:53.859Z",
+      "created_at": "2026-10-25T09:34:53.859Z",
+      "wrong_count": 0,
+      "status": "new"
+    },
+    {
       "word": "artifacts",
       "phonetic": "/ˈɑːrtɪfækts/",
       "meaning": "các sản phẩm đầu ra (trong ngữ cảnh CNTT/ML pipeline: các tệp kết quả được tạo ra trong quá trình xử lý như thống kê dữ liệu, checkpoint mô hình, kết quả đánh giá...)",
@@ -546,6 +679,44 @@
       "review_level": 0,
       "next_review": "2026-10-18T03:16:28.324Z",
       "created_at": "2026-10-18T03:16:28.324Z",
+      "wrong_count": 0,
+      "status": "new"
+    },
+    {
+      "word": "federated queries",
+      "phonetic": "",
+      "meaning": "Truy vấn liên hợp",
+      "example": "Keep the data on Cloud Storage, Use federated queries for data queries and transformations.",
+      "contextSentence": "Keep the data on Cloud Storage, Use federated queries for data queries and transformations.",
+      "sourceUrl": "https://cert-psi-umber.vercel.app/GCP-PDE/GCP-PDE_Quiz_App.html",
+      "sourceTitle": "Google Cloud Professional Data Engineer - 308 Câu Hỏi Luyện Thi",
+      "tags": [
+        "web-clipping"
+      ],
+      "description": "",
+      "id": "f9062530-75f6-4143-8c89-f1805773476d",
+      "review_level": 0,
+      "next_review": "2026-10-24T13:45:44.269Z",
+      "created_at": "2026-10-24T13:45:44.269Z",
+      "wrong_count": 0,
+      "status": "new"
+    },
+    {
+      "word": "informed",
+      "phonetic": "/ɪnˈfɔːrmd/",
+      "meaning": "được cung cấp thông tin, được định hình bởi dữ liệu (trong ngữ cảnh này: mô hình được 'nuôi dưỡng'/cập nhật nhờ lịch sử dữ liệu)",
+      "example": "Retraining on the combination of existing and new data keeps the model informed by history while adapting to new behavior; training only on new data discards useful signal, and using new/old data purely as a test set means the model never learns from it.",
+      "contextSentence": "Retraining on the combination of existing and new data keeps the model informed by history while adapting to new behavior; training only on new data discards useful signal, and using new/old data purely as a test set means the model never learns from it.",
+      "sourceUrl": "https://cert-psi-umber.vercel.app/GCP-PDE/GCP-PDE_Quiz_App.html",
+      "sourceTitle": "Google Cloud Professional Data Engineer - 308 Câu Hỏi Luyện Thi",
+      "tags": [
+        "web-clipping"
+      ],
+      "description": "",
+      "id": "f9598d02-d5c3-4625-8fc6-f4e9a230689f",
+      "review_level": 0,
+      "next_review": "2026-10-25T12:00:37.284Z",
+      "created_at": "2026-10-25T12:00:37.284Z",
       "wrong_count": 0,
       "status": "new"
     },
@@ -661,6 +832,20 @@
         "General"
       ],
       "createdAt": "2026-10-23T04:10:41.835Z"
+    },
+    {
+      "id": "fc159546-a032-4838-8ab5-dee5987dfdf3",
+      "title": "Tối ưu model user features outbound v4",
+      "description": "",
+      "priority": "medium",
+      "status": "pending",
+      "dueDate": "2026-10-26",
+      "reminderAt": "",
+      "reminderNotified": false,
+      "tags": [
+        "General"
+      ],
+      "createdAt": "2026-10-26T02:07:14.094Z"
     }
   ]
 }
