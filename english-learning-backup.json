@@ -1,5 +1,5 @@
 {
-  "export_date": "2026-10-26T09:07:38.893Z",
+  "export_date": "2026-10-26T09:32:43.359Z",
   "words": [
     {
       "word": "idempotent",
@@ -806,6 +806,59 @@
       "review_level": 0,
       "next_review": "2026-10-26T09:07:38.869Z",
       "created_at": "2026-10-26T09:07:38.869Z"
+    },
+    {
+      "title": "Câu điều kiện hỗn hợp (Mixed Conditionals)",
+      "formula": "Type 1: If + S + had + V3/ed, S + would + V-inf (now) | Type 2: If + S + V2/ed, S + would have + V3/ed",
+      "explanation": "Kết hợp giữa thời gian quá khứ và hiện tại. Loại phổ biến nhất là giả định một hành động không có thật trong quá khứ dẫn đến kết quả ở hiện tại (If had V3, S would V-inf now).",
+      "notes": "Dấu hiệu nhận biết: Mệnh đề If thường có \"yesterday / in the past / back then\", còn mệnh đề chính có \"now / today / at present\".",
+      "example": "If I had taken your advice back then, I wouldn't be in this trouble now.\n(Nếu hồi đó tôi nghe lời khuyên của bạn, thì bây giờ tôi đã không gặp rắc rối thế này.)\n\nIf he were smarter, he wouldn't have made that costly mistake.\n(Nếu anh ấy thông minh hơn, anh ấy đã không mắc phải sai lầm đắt giá đó.)",
+      "examplesList": [
+        {
+          "english": "If I had taken your advice back then, I wouldn't be in this trouble now.",
+          "vietnamese": "Nếu hồi đó tôi nghe lời khuyên của bạn, thì bây giờ tôi đã không gặp rắc rối thế này."
+        },
+        {
+          "english": "If he were smarter, he wouldn't have made that costly mistake.",
+          "vietnamese": "Nếu anh ấy thông minh hơn, anh ấy đã không mắc phải sai lầm đắt giá đó."
+        }
+      ],
+      "content": "[Công thức]: Type 1: If + S + had + V3/ed, S + would + V-inf (now) | Type 2: If + S + V2/ed, S + would have + V3/ed\n\n[Cách dùng]: Kết hợp giữa thời gian quá khứ và hiện tại. Loại phổ biến nhất là giả định một hành động không có thật trong quá khứ dẫn đến kết quả ở hiện tại (If had V3, S would V-inf now).\n\n[Lưu ý]: Dấu hiệu nhận biết: Mệnh đề If thường có \"yesterday / in the past / back then\", còn mệnh đề chính có \"now / today / at present\".",
+      "tags": [
+        "conditionals",
+        "mixed",
+        "c1-grammar",
+        "advanced"
+      ],
+      "exercises": {
+        "multipleChoice": [
+          {
+            "id": "mc-condmix-1",
+            "question": "If he had accepted the scholarship last year, he _____ in Cambridge right now.",
+            "options": [
+              "would study",
+              "would be studying",
+              "had studied",
+              "will study"
+            ],
+            "correctAnswer": 1,
+            "explanation": "Điều kiện trong quá khứ (last year -> had accepted) dẫn đến kết quả đang tiếp diễn ở hiện tại (right now -> would be studying)."
+          }
+        ],
+        "translation": [
+          {
+            "id": "tr-condmix-1",
+            "vietnamese": "Nếu hôm qua bạn đi ngủ sớm thì sáng nay bạn đã không mệt mỏi như bây giờ.",
+            "hint": "If you had gone to bed early, you wouldn't feel so exhausted now",
+            "suggestedEnglish": "If you had gone to bed early yesterday, you wouldn't feel so exhausted right now.",
+            "targetGrammarPoint": "Mixed Conditionals"
+          }
+        ]
+      },
+      "id": "81efe4ad-acb1-41cd-9281-950662af40ac",
+      "review_level": 0,
+      "next_review": "2026-10-26T09:32:43.312Z",
+      "created_at": "2026-10-26T09:32:43.312Z"
     }
   ],
   "review_history": [],
