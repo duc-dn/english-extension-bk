@@ -1,5 +1,5 @@
 {
-  "export_date": "2026-10-26T09:33:03.512Z",
+  "export_date": "2026-10-26T10:18:06.953Z",
   "words": [
     {
       "word": "idempotent",
@@ -1004,6 +1004,58 @@
       "review_level": 0,
       "next_review": "2026-10-26T09:32:43.312Z",
       "created_at": "2026-10-26T09:32:43.312Z"
+    },
+    {
+      "title": "Đảo ngữ Not only... but also (Inversion)",
+      "formula": "Not only + Trợ động từ + S + V, but S + also + V...",
+      "explanation": "Nhấn mạnh hai tính chất hoặc hai hành động cùng xảy ra (\"Không những... mà còn...\"). Khi đưa Not only lên đầu câu, mệnh đề đầu tiên bắt buộc phải đảo ngữ.",
+      "notes": "Lưu ý: Chỉ đảo ngữ ở mệnh đề \"Not only\". Mệnh đề \"but also\" giữ nguyên trật tự thông thường (S + also + V).",
+      "example": "Not only does she speak French fluently, but she also writes it beautifully.\n(Cô ấy không những nói tiếng Pháp trôi chảy mà còn viết rất đẹp.)\n\nNot only did they finish the project early, but they also saved 20% of the budget.\n(Họ không những hoàn thành dự án sớm mà còn tiết kiệm được 20% ngân sách.)",
+      "examplesList": [
+        {
+          "english": "Not only does she speak French fluently, but she also writes it beautifully.",
+          "vietnamese": "Cô ấy không những nói tiếng Pháp trôi chảy mà còn viết rất đẹp."
+        },
+        {
+          "english": "Not only did they finish the project early, but they also saved 20% of the budget.",
+          "vietnamese": "Họ không những hoàn thành dự án sớm mà còn tiết kiệm được 20% ngân sách."
+        }
+      ],
+      "content": "[Công thức]: Not only + Trợ động từ + S + V, but S + also + V...\n\n[Cách dùng]: Nhấn mạnh hai tính chất hoặc hai hành động cùng xảy ra (\"Không những... mà còn...\"). Khi đưa Not only lên đầu câu, mệnh đề đầu tiên bắt buộc phải đảo ngữ.\n\n[Lưu ý]: Lưu ý: Chỉ đảo ngữ ở mệnh đề \"Not only\". Mệnh đề \"but also\" giữ nguyên trật tự thông thường (S + also + V).",
+      "tags": [
+        "inversion",
+        "emphasis",
+        "writing-skills"
+      ],
+      "exercises": {
+        "multipleChoice": [
+          {
+            "id": "mc-notonly-1",
+            "question": "Not only _____ excellent design skills, but he also possesses strong leadership qualities.",
+            "options": [
+              "he has",
+              "does he have",
+              "has he had",
+              "did he had"
+            ],
+            "correctAnswer": 1,
+            "explanation": "Hiện tại đơn dùng trợ động từ \"does\" đưa lên trước chủ ngữ \"he\" (does he have)."
+          }
+        ],
+        "translation": [
+          {
+            "id": "tr-notonly-1",
+            "vietnamese": "Ứng dụng này không những tiện lợi mà còn hoàn toàn miễn phí cho người dùng.",
+            "hint": "Not only is this application convenient, but it is also completely free...",
+            "suggestedEnglish": "Not only is this app convenient, but it is also completely free for users.",
+            "targetGrammarPoint": "Inversion with Not only"
+          }
+        ]
+      },
+      "id": "9553d96f-36d3-4310-9c86-086a3d8383d0",
+      "review_level": 0,
+      "next_review": "2026-10-26T10:18:06.912Z",
+      "created_at": "2026-10-26T10:18:06.912Z"
     }
   ],
   "review_history": [],
