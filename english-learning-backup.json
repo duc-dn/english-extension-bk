@@ -1,5 +1,5 @@
 {
-  "export_date": "2026-10-26T10:18:06.953Z",
+  "export_date": "2026-10-26T10:18:34.922Z",
   "words": [
     {
       "word": "idempotent",
@@ -1040,6 +1040,186 @@
             ],
             "correctAnswer": 1,
             "explanation": "Hiện tại đơn dùng trợ động từ \"does\" đưa lên trước chủ ngữ \"he\" (does he have)."
+          },
+          {
+            "id": "7e7a7c49-a8bb-44e3-b085-7fb6927c44b3",
+            "question": "Not only ______ the new policy, but the board also implemented it without consulting the staff.",
+            "options": [
+              "the CEO announced",
+              "did the CEO announce",
+              "the CEO did announce",
+              "announced the CEO"
+            ],
+            "correctAnswer": 1,
+            "explanation": "Khi 'Not only' đứng đầu câu, mệnh đề đầu tiên bắt buộc đảo ngữ: trợ động từ đứng trước chủ ngữ. Ở thì quá khứ đơn, dùng trợ động từ 'did' → 'did the CEO announce'. Phương án A thiếu đảo ngữ; C sai trật tự (trợ động từ phải đứng trước chủ ngữ); D đảo cả động từ chính, sai vì chỉ trợ động từ mới đảo."
+          },
+          {
+            "id": "78cb2cfb-30b8-411d-88fb-bfd97f3d2c33",
+            "question": "Not only ______ the report late, but he also forgot to attach the supporting data.",
+            "options": [
+              "he submitted",
+              "did he submit",
+              "he did submit",
+              "submitted he"
+            ],
+            "correctAnswer": 1,
+            "explanation": "Cấu trúc đảo ngữ với 'Not only' ở đầu câu: 'Not only + trợ động từ + S + V'. Thì quá khứ đơn dùng 'did' → 'did he submit'. A không đảo ngữ; C đặt trợ động từ sau chủ ngữ (sai); D đảo động từ chính thay vì trợ động từ."
+          },
+          {
+            "id": "8d3e51b2-48f2-4307-b637-d7c0a8345931",
+            "question": "Not only ______ the deadline, but the team also delivered outstanding quality.",
+            "options": [
+              "they met",
+              "did they meet",
+              "they did meet",
+              "met they"
+            ],
+            "correctAnswer": 1,
+            "explanation": "Mệnh đề đầu sau 'Not only' phải đảo ngữ với trợ động từ. Quá khứ đơn → 'did they meet'. B đúng. A thiếu đảo ngữ; C sai vị trí trợ động từ; D đảo động từ chính, không đúng quy tắc."
+          },
+          {
+            "id": "ebf445d9-e634-462a-95cf-9ebe22785bc1",
+            "question": "Not only ______ to the meeting, but she also presented the entire quarterly strategy.",
+            "options": [
+              "she came",
+              "did she come",
+              "she did come",
+              "came she"
+            ],
+            "correctAnswer": 1,
+            "explanation": "Đảo ngữ với 'Not only' ở đầu câu: trợ động từ 'did' + chủ ngữ + động từ nguyên mẫu 'come' → 'did she come'. B đúng. A không đảo ngữ; C sai trật tự; D đảo động từ chính."
+          },
+          {
+            "id": "ab8fc953-dd3b-4ff3-a42e-824bcc8d99e2",
+            "question": "Not only ______ the budget, but the department also increased its output by 20%.",
+            "options": [
+              "the manager cut",
+              "did the manager cut",
+              "the manager did cut",
+              "cut the manager"
+            ],
+            "correctAnswer": 1,
+            "explanation": "Sau 'Not only' đầu câu, cần đảo ngữ trợ động từ. Quá khứ đơn → 'did the manager cut'. B đúng. A thiếu đảo ngữ; C sai vị trí; D đảo động từ chính."
+          },
+          {
+            "id": "a6cecab1-0959-4002-99c2-b8036ff94197",
+            "question": "Not only ______ the risks, but the company also devised a contingency plan.",
+            "options": [
+              "they identified",
+              "did they identify",
+              "they did identify",
+              "identified they"
+            ],
+            "correctAnswer": 1,
+            "explanation": "Cấu trúc đảo ngữ: 'Not only + did + S + V'. Động từ 'identify' ở dạng nguyên mẫu sau 'did' → 'did they identify'. B đúng. A không đảo ngữ; C sai trật tự; D đảo động từ chính."
+          },
+          {
+            "id": "535bc3e2-e3c5-49b1-afe5-9507cae28fb7",
+            "question": "Not only ______ the customer's complaint, but the support team also offered a full refund.",
+            "options": [
+              "they acknowledged",
+              "did they acknowledge",
+              "they did acknowledge",
+              "acknowledged they"
+            ],
+            "correctAnswer": 1,
+            "explanation": "Đảo ngữ với 'Not only' đầu câu dùng trợ động từ 'did' ở quá khứ đơn → 'did they acknowledge'. B đúng. A thiếu đảo ngữ; C sai trật tự; D đảo động từ chính."
+          },
+          {
+            "id": "79a67021-c739-429f-9ed5-57880137d2bc",
+            "question": "Not only ______ the new software, but the IT team also trained all employees on it.",
+            "options": [
+              "they installed",
+              "did they install",
+              "they did install",
+              "installed they"
+            ],
+            "correctAnswer": 1,
+            "explanation": "Sau 'Not only' đầu câu, mệnh đề đầu đảo ngữ: 'did they install'. B đúng. A không đảo ngữ; C sai vị trí trợ động từ; D đảo động từ chính."
+          },
+          {
+            "id": "d3993db2-0477-4bc1-a256-0c6db738a44a",
+            "question": "Not only ______ the presentation, but he also answered every question confidently.",
+            "options": [
+              "he prepared",
+              "did he prepare",
+              "he did prepare",
+              "prepared he"
+            ],
+            "correctAnswer": 1,
+            "explanation": "Cấu trúc đảo ngữ: 'Not only + did + S + V'. Quá khứ đơn → 'did he prepare'. B đúng. A thiếu đảo ngữ; C sai trật tự; D đảo động từ chính."
+          },
+          {
+            "id": "800ead53-b5cf-45a2-8006-f6b67b5ce705",
+            "question": "Not only ______ the audit, but the firm also published the results transparently.",
+            "options": [
+              "they passed",
+              "did they pass",
+              "they did pass",
+              "passed they"
+            ],
+            "correctAnswer": 1,
+            "explanation": "Sau 'Not only' đầu câu, trợ động từ 'did' đứng trước chủ ngữ → 'did they pass'. B đúng. A không đảo ngữ; C sai vị trí; D đảo động từ chính."
+          },
+          {
+            "id": "84563268-a832-408e-b5f8-1e0a9336c641",
+            "question": "Not only ______ the merger, but the board also restructured the entire management team.",
+            "options": [
+              "they approved",
+              "did they approve",
+              "they did approve",
+              "approved they"
+            ],
+            "correctAnswer": 1,
+            "explanation": "Đảo ngữ với 'Not only': 'did they approve'. B đúng. A thiếu đảo ngữ; C sai trật tự; D đảo động từ chính."
+          },
+          {
+            "id": "a7019bf4-2f93-47c0-96c1-a8a57f91fad9",
+            "question": "Not only ______ the safety protocol, but the staff also reported the incident immediately.",
+            "options": [
+              "they followed",
+              "did they follow",
+              "they did follow",
+              "followed they"
+            ],
+            "correctAnswer": 1,
+            "explanation": "Cấu trúc: 'Not only + did + S + V'. Quá khứ đơn → 'did they follow'. B đúng. A không đảo ngữ; C sai trật tự; D đảo động từ chính."
+          },
+          {
+            "id": "29209357-c3d5-438a-934c-61fcb7fd192f",
+            "question": "Not only ______ the client's needs, but the agency also exceeded expectations.",
+            "options": [
+              "they understood",
+              "did they understand",
+              "they did understand",
+              "understood they"
+            ],
+            "correctAnswer": 1,
+            "explanation": "Sau 'Not only' đầu câu, cần đảo ngữ trợ động từ: 'did they understand'. B đúng. A thiếu đảo ngữ; C sai vị trí; D đảo động từ chính."
+          },
+          {
+            "id": "22937b64-011c-4627-b57a-ee7bbe810a0e",
+            "question": "Not only ______ the error, but the engineer also documented the fix thoroughly.",
+            "options": [
+              "he detected",
+              "did he detect",
+              "he did detect",
+              "detected he"
+            ],
+            "correctAnswer": 1,
+            "explanation": "Đảo ngữ với 'Not only': 'did he detect'. B đúng. A không đảo ngữ; C sai trật tự; D đảo động từ chính."
+          },
+          {
+            "id": "dc4b7817-3e36-4a2d-945e-fda4dac6e3ad",
+            "question": "Not only ______ the training, but the employees also applied the new skills immediately.",
+            "options": [
+              "they completed",
+              "did they complete",
+              "they did complete",
+              "completed they"
+            ],
+            "correctAnswer": 1,
+            "explanation": "Cấu trúc đảo ngữ: 'Not only + did + S + V'. Quá khứ đơn → 'did they complete'. B đúng. A thiếu đảo ngữ; C sai trật tự; D đảo động từ chính."
           }
         ],
         "translation": [
@@ -1049,6 +1229,76 @@
             "hint": "Not only is this application convenient, but it is also completely free...",
             "suggestedEnglish": "Not only is this app convenient, but it is also completely free for users.",
             "targetGrammarPoint": "Inversion with Not only"
+          },
+          {
+            "id": "dce04882-4a5e-4cde-b98c-68fd26d5caed",
+            "vietnamese": "Không những công ty đã cắt giảm chi phí vận hành mà còn tăng lương cho nhân viên.",
+            "hint": "Not only + did + S + V (cut); but S + also + V (increase); operating costs / salaries",
+            "suggestedEnglish": "Not only did the company cut operating costs, but it also increased employee salaries.",
+            "targetGrammarPoint": "Đảo ngữ Not only... but also (Inversion)"
+          },
+          {
+            "id": "81812efe-5651-438e-8a6e-3ca336ca4579",
+            "vietnamese": "Không những nhóm đã hoàn thành dự án trước hạn mà còn vượt qua mọi chỉ tiêu KPI.",
+            "hint": "Not only + did + S + V (complete); but S + also + V (exceed); ahead of schedule / KPI targets",
+            "suggestedEnglish": "Not only did the team complete the project ahead of schedule, but it also exceeded all KPI targets.",
+            "targetGrammarPoint": "Đảo ngữ Not only... but also (Inversion)"
+          },
+          {
+            "id": "52581e69-597d-45c1-b6cd-2a7e11c4ab21",
+            "vietnamese": "Không những giám đốc đã phê duyệt ngân sách mà còn yêu cầu một bản kế hoạch chi tiết hơn.",
+            "hint": "Not only + did + S + V (approve); but S + also + V (request); budget / detailed plan",
+            "suggestedEnglish": "Not only did the director approve the budget, but he also requested a more detailed plan.",
+            "targetGrammarPoint": "Đảo ngữ Not only... but also (Inversion)"
+          },
+          {
+            "id": "b7ce03b0-54a1-470a-a4e5-76fad976d991",
+            "vietnamese": "Không những sản phẩm mới đã thu hút sự chú ý của giới truyền thông mà còn đạt doanh số kỷ lục trong tháng đầu tiên.",
+            "hint": "Not only + did + S + V (attract); but S + also + V (achieve); media attention / record sales",
+            "suggestedEnglish": "Not only did the new product attract media attention, but it also achieved record sales in its first month.",
+            "targetGrammarPoint": "Đảo ngữ Not only... but also (Inversion)"
+          },
+          {
+            "id": "9c9f9d6d-df50-44c8-a046-d67e2d348e3d",
+            "vietnamese": "Không những bộ phận IT đã khắc phục sự cố nhanh chóng mà còn nâng cấp toàn bộ hệ thống bảo mật.",
+            "hint": "Not only + did + S + V (resolve); but S + also + V (upgrade); outage / security system",
+            "suggestedEnglish": "Not only did the IT department resolve the outage quickly, but it also upgraded the entire security system.",
+            "targetGrammarPoint": "Đảo ngữ Not only... but also (Inversion)"
+          },
+          {
+            "id": "b715ffa3-7417-41ce-b86d-01fe180f9026",
+            "vietnamese": "Không những cô ấy đã thuyết trình thuyết phục mà còn xử lý mọi câu hỏi khó một cách tự tin.",
+            "hint": "Not only + did + S + V (present); but S + also + V (handle); persuasively / tough questions",
+            "suggestedEnglish": "Not only did she present persuasively, but she also handled every tough question confidently.",
+            "targetGrammarPoint": "Đảo ngữ Not only... but also (Inversion)"
+          },
+          {
+            "id": "382351cb-b6eb-428a-9362-cd0efcf6d86e",
+            "vietnamese": "Không những công ty đã mở rộng thị trường sang châu Á mà còn ký kết được ba hợp đồng chiến lược.",
+            "hint": "Not only + did + S + V (expand); but S + also + V (sign); strategic contracts",
+            "suggestedEnglish": "Not only did the company expand into Asian markets, but it also signed three strategic contracts.",
+            "targetGrammarPoint": "Đảo ngữ Not only... but also (Inversion)"
+          },
+          {
+            "id": "69504ad1-8260-4231-97e6-d7de3a10e0ba",
+            "vietnamese": "Không những nhân viên đã báo cáo vấn đề kịp thời mà còn đề xuất một giải pháp hiệu quả.",
+            "hint": "Not only + did + S + V (report); but S + also + V (propose); timely / effective solution",
+            "suggestedEnglish": "Not only did the employee report the issue in time, but he also proposed an effective solution.",
+            "targetGrammarPoint": "Đảo ngữ Not only... but also (Inversion)"
+          },
+          {
+            "id": "ffe5961b-2927-44d2-9822-5e99f2c1f399",
+            "vietnamese": "Không những hội nghị đã thu hút hơn 500 người tham dự mà còn nhận được phản hồi tích cực từ các đối tác quốc tế.",
+            "hint": "Not only + did + S + V (attract); but S + also + V (receive); attendees / positive feedback",
+            "suggestedEnglish": "Not only did the conference attract over 500 attendees, but it also received positive feedback from international partners.",
+            "targetGrammarPoint": "Đảo ngữ Not only... but also (Inversion)"
+          },
+          {
+            "id": "d7aceebd-ff8e-4ea4-bbe1-1525b9befc4d",
+            "vietnamese": "Không những chúng tôi đã giảm thiểu rủi ro tài chính mà còn cải thiện đáng kể hiệu quả đầu tư.",
+            "hint": "Not only + did + S + V (minimize); but S + also + V (improve); financial risks / investment efficiency",
+            "suggestedEnglish": "Not only did we minimize financial risks, but we also significantly improved investment efficiency.",
+            "targetGrammarPoint": "Đảo ngữ Not only... but also (Inversion)"
           }
         ]
       },
