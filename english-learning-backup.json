@@ -1,5 +1,5 @@
 {
-  "export_date": "2026-10-26T09:32:51.101Z",
+  "export_date": "2026-10-26T09:33:03.512Z",
   "words": [
     {
       "word": "idempotent",
@@ -790,6 +790,66 @@
             ],
             "correctAnswer": 1,
             "explanation": "Đảo ngữ câu điều kiện loại 3 (Had you told me...), mệnh đề chính dùng S + would have + V3/ed."
+          },
+          {
+            "id": "d42d69ec-eed6-4ba4-9cbe-c34af9c0739d",
+            "question": "If the marketing team ______ the client's feedback seriously, we wouldn't have lost the contract.",
+            "options": [
+              "took",
+              "had taken",
+              "would take",
+              "would have taken"
+            ],
+            "correctAnswer": 1,
+            "explanation": "Mệnh đề If của câu điều kiện loại 3 phải dùng thì quá khứ hoàn thành: 'had + V3/ed'. 'Had taken' là đáp án đúng. 'Took' (quá khứ đơn) thuộc câu điều kiện loại 2, không phù hợp với kết quả 'wouldn't have lost' trong quá khứ. 'Would take' và 'would have taken' không bao giờ đứng trong mệnh đề If của câu điều kiện loại 3."
+          },
+          {
+            "id": "f4ce95cd-a18c-4741-bb6d-74e6c436a3a9",
+            "question": "Had I known the deadline was moved up, I ______ the report over the weekend.",
+            "options": [
+              "would finish",
+              "would have finished",
+              "had finished",
+              "will finish"
+            ],
+            "correctAnswer": 1,
+            "explanation": "Đây là dạng đảo ngữ của câu điều kiện loại 3: 'Had + S + V3/ed' thay cho 'If + S + had + V3/ed'. Mệnh đề chính vì thế cần 'would/could/might + have + V3/ed' → 'would have finished'. 'Would finish' là loại 2, 'had finished' không đúng vị trí, 'will finish' là tương lai."
+          },
+          {
+            "id": "fcf4af09-10bd-4af6-8176-9c105bfa869d",
+            "question": "The project ______ on time if the supplier hadn't delivered the wrong materials.",
+            "options": [
+              "would have been completed",
+              "would be completed",
+              "had been completed",
+              "will have been completed"
+            ],
+            "correctAnswer": 0,
+            "explanation": "Mệnh đề chính của câu điều kiện loại 3 dùng 'would/could/might + have + V3/ed'. Ở đây là bị động nên cần 'would have been + V3/ed' → 'would have been completed'. 'Would be completed' là loại 2; 'had been completed' không thể đứng làm mệnh đề chính; 'will have been completed' là tương lai hoàn thành, sai ngữ cảnh giả định quá khứ."
+          },
+          {
+            "id": "d521693d-9c68-4fdc-9343-f855f74dd8b3",
+            "question": "If she ______ the safety training, she would have known how to handle the equipment properly.",
+            "options": [
+              "attended",
+              "has attended",
+              "had attended",
+              "would attend"
+            ],
+            "correctAnswer": 2,
+            "explanation": "Mệnh đề If của câu điều kiện loại 3 cần 'had + V3/ed' → 'had attended'. 'Attended' (quá khứ đơn) là loại 2; 'has attended' (hiện tại hoàn thành) không dùng trong câu điều kiện loại 3; 'would attend' sai hoàn toàn vì 'would' không đứng trong mệnh đề If."
+          },
+          {
+            "id": "e70b7da5-91f8-43b3-8b1b-ff089d5ddb25",
+            "question": "We could have met the quarterly target, but we ______ more staff to the sales team earlier.",
+            "options": [
+              "didn't assign",
+              "hadn't assigned",
+              "wouldn't assign",
+              "haven't assigned"
+            ],
+            "correctAnswer": 0,
+            "explanation": "Câu này diễn tả thực tế đã xảy ra trái với giả định: 'could have met' (đã có thể đạt) nhưng thực tế là 'chúng tôi đã không phân bổ thêm nhân sự'. Mệnh đề nêu thực tế dùng quá khứ đơn: 'didn't assign'. Đây là biến thể của câu điều kiện loại 3 với 'but' thay cho 'if': 'We could have met... if we had assigned more staff' → thực tế 'we didn't assign'. 'Hadn't assigned' sẽ tạo nghĩa sai (đã không phân bổ — nhưng đây là mệnh đề thực tế, không phải giả định); 'wouldn't assign' và 'haven't assigned' sai thì."
           }
         ],
         "translation": [
@@ -799,6 +859,27 @@
             "hint": "Third conditional, forget key, wait outside",
             "suggestedEnglish": "If I hadn't forgotten my key yesterday, I wouldn't have had to wait outside for two hours.",
             "targetGrammarPoint": "Third Conditional"
+          },
+          {
+            "id": "23bef792-c93c-4569-8abd-64f6b35ae401",
+            "vietnamese": "Nếu tôi đã kiểm tra lại hợp đồng trước khi ký, chúng ta đã không phải chịu khoản phạt đó.",
+            "hint": "If + S + had + V3/ed (check → checked); S + would + have + V3/ed (not have to → not have had to); penalty / fine",
+            "suggestedEnglish": "If I had double-checked the contract before signing, we wouldn't have had to pay that penalty.",
+            "targetGrammarPoint": "Câu điều kiện loại 3 (Third Conditional)"
+          },
+          {
+            "id": "36f337b0-6a63-42f3-ae2b-73f236f57af1",
+            "vietnamese": "Nếu ban lãnh đạo đã lắng nghe phản hồi của nhân viên, họ đã có thể tránh được làn sóng nghỉ việc đó.",
+            "hint": "If + S + had + V3/ed (listen → listened); S + could + have + V3/ed (avoid); resignation wave / mass resignations",
+            "suggestedEnglish": "If the leadership had listened to employee feedback, they could have avoided that wave of resignations.",
+            "targetGrammarPoint": "Câu điều kiện loại 3 (Third Conditional)"
+          },
+          {
+            "id": "9580739a-f67d-4250-8227-e5f96eb706c1",
+            "vietnamese": "Nếu chúng tôi đã triển khai bản cập nhật phần mềm sớm hơn, sự cố hệ thống tuần trước đã không xảy ra.",
+            "hint": "If + S + had + V3/ed (deploy → deployed); S + would + have + V3/ed (not happen → not have happened); system outage / crash",
+            "suggestedEnglish": "If we had deployed the software update earlier, last week's system outage wouldn't have happened.",
+            "targetGrammarPoint": "Câu điều kiện loại 3 (Third Conditional)"
           }
         ]
       },
