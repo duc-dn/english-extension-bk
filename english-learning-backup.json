@@ -1,5 +1,5 @@
 {
-  "export_date": "2026-10-26T09:32:43.359Z",
+  "export_date": "2026-10-26T09:32:51.101Z",
   "words": [
     {
       "word": "idempotent",
@@ -743,6 +743,70 @@
     }
   ],
   "grammar_notes": [
+    {
+      "title": "Câu điều kiện loại 3 (Third Conditional)",
+      "formula": "If + S + had + V3/ed, S + would/could + have + V3/ed",
+      "explanation": "Diễn tả một điều kiện và kết quả hoàn toàn trái ngược với thực tế đã xảy ra trong quá khứ. Thường dùng để diễn tả sự tiếc nuối, trách móc hoặc giả định lịch sử.",
+      "notes": "Đảo ngữ: Had + S + (not) + V3/ed, S + would have + V3/ed (bỏ If). Ví dụ: Had I known earlier, I would have warned you.",
+      "example": "If I had known about the traffic jam, I would have taken the subway.\n(Nếu tôi biết trước về vụ tắc đường, tôi đã đi tàu điện ngầm rồi.)\n\nIf she had practiced more, she could have passed the test.\n(Nếu cô ấy luyện tập nhiều hơn, cô ấy đã có thể đỗ bài thi rồi.)",
+      "examplesList": [
+        {
+          "english": "If I had known about the traffic jam, I would have taken the subway.",
+          "vietnamese": "Nếu tôi biết trước về vụ tắc đường, tôi đã đi tàu điện ngầm rồi."
+        },
+        {
+          "english": "If she had practiced more, she could have passed the test.",
+          "vietnamese": "Nếu cô ấy luyện tập nhiều hơn, cô ấy đã có thể đỗ bài thi rồi."
+        }
+      ],
+      "content": "[Công thức]: If + S + had + V3/ed, S + would/could + have + V3/ed\n\n[Cách dùng]: Diễn tả một điều kiện và kết quả hoàn toàn trái ngược với thực tế đã xảy ra trong quá khứ. Thường dùng để diễn tả sự tiếc nuối, trách móc hoặc giả định lịch sử.\n\n[Lưu ý]: Đảo ngữ: Had + S + (not) + V3/ed, S + would have + V3/ed (bỏ If). Ví dụ: Had I known earlier, I would have warned you.",
+      "tags": [
+        "conditionals",
+        "past-unreal",
+        "b2-grammar"
+      ],
+      "exercises": {
+        "multipleChoice": [
+          {
+            "id": "mc-cond3-1",
+            "question": "If we _____ the early train yesterday, we wouldn't have missed the opening ceremony.",
+            "options": [
+              "had caught",
+              "caught",
+              "have caught",
+              "would catch"
+            ],
+            "correctAnswer": 0,
+            "explanation": "Mệnh đề If của câu điều kiện loại 3 dùng thì Quá khứ hoàn thành: had + V3/ed (had caught)."
+          },
+          {
+            "id": "mc-cond3-2",
+            "question": "Had you told me earlier, I _____ you with the financial report.",
+            "options": [
+              "will assist",
+              "would have assisted",
+              "assisted",
+              "am assisting"
+            ],
+            "correctAnswer": 1,
+            "explanation": "Đảo ngữ câu điều kiện loại 3 (Had you told me...), mệnh đề chính dùng S + would have + V3/ed."
+          }
+        ],
+        "translation": [
+          {
+            "id": "tr-cond3-1",
+            "vietnamese": "Nếu hôm qua tôi không quên chìa khóa, tôi đã không phải đợi ngoài cửa suốt 2 tiếng.",
+            "hint": "Third conditional, forget key, wait outside",
+            "suggestedEnglish": "If I hadn't forgotten my key yesterday, I wouldn't have had to wait outside for two hours.",
+            "targetGrammarPoint": "Third Conditional"
+          }
+        ]
+      },
+      "id": "5ae8d796-9911-42e2-9f1b-5f71c4b5d3ee",
+      "review_level": 0,
+      "next_review": "2026-10-26T09:32:51.053Z",
+      "created_at": "2026-10-26T09:32:51.053Z"
+    },
     {
       "title": "Đảo ngữ No sooner / Hardly (Inversion)",
       "formula": "No sooner had + S + V3/ed + than + S + V2/ed | Hardly had + S + V3/ed + when + S + V2/ed",
