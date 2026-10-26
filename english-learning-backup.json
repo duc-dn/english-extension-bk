@@ -1,5 +1,5 @@
 {
-  "export_date": "2026-10-26T10:18:40.486Z",
+  "export_date": "2026-10-26T16:42:08.893Z",
   "words": [
     {
       "word": "idempotent",
@@ -1312,6 +1312,59 @@
       "quiz_attempts": 1,
       "quiz_correct": 0,
       "last_practiced_at": "2026-10-26T10:18:40.449Z"
+    },
+    {
+      "title": "Phỏng đoán quá khứ (Must / Can't / Should have V3)",
+      "formula": "Chắc chắn đúng: Must have + V3/ed | Chắc chắn không thể: Can't/Couldn't have + V3/ed | Đáng lẽ nên: Should have + V3/ed",
+      "explanation": "Dùng các trợ động từ khuyết thiếu kết hợp với \"have + V3/ed\" để suy đoán logic hoặc tiếc nuối về một sự việc trong quá khứ dựa trên bằng chứng hiện tại.",
+      "notes": "Không bao giờ dùng \"mustn't have V3\" để suy đoán điều không xảy ra trong quá khứ. Suy đoán phủ định bắt buộc phải dùng \"can't have + V3\" hoặc \"couldn't have + V3\".",
+      "example": "The ground is wet; it must have rained heavily last night.\n(Mặt đất ướt sũng; đêm qua chắc chắn trời đã mưa rất to.)\n\nYou should have phoned me to let me know you would be late.\n(Lẽ ra bạn nên gọi điện báo cho tôi biết là bạn sẽ đến muộn - nhưng thực tế bạn đã không gọi.)",
+      "examplesList": [
+        {
+          "english": "The ground is wet; it must have rained heavily last night.",
+          "vietnamese": "Mặt đất ướt sũng; đêm qua chắc chắn trời đã mưa rất to."
+        },
+        {
+          "english": "You should have phoned me to let me know you would be late.",
+          "vietnamese": "Lẽ ra bạn nên gọi điện báo cho tôi biết là bạn sẽ đến muộn."
+        }
+      ],
+      "content": "[Công thức]: Chắc chắn đúng: Must have + V3/ed | Chắc chắn không thể: Can't/Couldn't have + V3/ed | Đáng lẽ nên: Should have + V3/ed\n\n[Cách dùng]: Dùng các trợ động từ khuyết thiếu kết hợp với \"have + V3/ed\" để suy đoán logic hoặc tiếc nuối về một sự việc trong quá khứ dựa trên bằng chứng hiện tại.\n\n[Lưu ý]: Không bao giờ dùng \"mustn't have V3\" để suy đoán điều không xảy ra trong quá khứ. Suy đoán phủ định bắt buộc phải dùng \"can't have + V3\" hoặc \"couldn't have + V3\".",
+      "tags": [
+        "modals",
+        "past-deduction",
+        "b2-grammar",
+        "speaking-ielts"
+      ],
+      "exercises": {
+        "multipleChoice": [
+          {
+            "id": "mc-modded-1",
+            "question": "Mark is usually punctual. He _____ in an unexpected traffic jam on the freeway.",
+            "options": [
+              "must get caught",
+              "must have been caught",
+              "should have caught",
+              "can't have been caught"
+            ],
+            "correctAnswer": 1,
+            "explanation": "Suy đoán quá khứ có căn cứ hợp lý: \"chắc chắn anh ấy đã bị kẹt xe\" -> must have been caught (dạng bị động)."
+          }
+        ],
+        "translation": [
+          {
+            "id": "tr-modded-1",
+            "vietnamese": "Anh ấy không thể nào đã nhìn thấy tôi hôm qua vì tôi đang ở nước ngoài.",
+            "hint": "He couldn't have seen me yesterday because I was abroad.",
+            "suggestedEnglish": "He can't have seen me yesterday because I was abroad.",
+            "targetGrammarPoint": "Can't have V3 (Past Deduction)"
+          }
+        ]
+      },
+      "id": "ad95f5ce-0590-4bb9-a118-e955474241f7",
+      "review_level": 0,
+      "next_review": "2026-10-26T16:42:08.849Z",
+      "created_at": "2026-10-26T16:42:08.849Z"
     }
   ],
   "review_history": [],
