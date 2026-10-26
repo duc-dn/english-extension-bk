@@ -1,5 +1,5 @@
 {
-  "export_date": "2026-10-26T02:07:14.149Z",
+  "export_date": "2026-10-26T08:30:19.106Z",
   "words": [
     {
       "word": "idempotent",
@@ -838,14 +838,15 @@
       "title": "Tối ưu model user features outbound v4",
       "description": "",
       "priority": "medium",
-      "status": "pending",
+      "status": "completed",
       "dueDate": "2026-10-26",
       "reminderAt": "",
       "reminderNotified": false,
       "tags": [
         "General"
       ],
-      "createdAt": "2026-10-26T02:07:14.094Z"
+      "createdAt": "2026-10-26T02:07:14.094Z",
+      "completedAt": "2026-10-26T08:30:19.016Z"
     }
   ]
 }
