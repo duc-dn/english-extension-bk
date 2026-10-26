@@ -1,5 +1,5 @@
 {
-  "export_date": "2026-10-26T08:30:19.106Z",
+  "export_date": "2026-10-26T09:07:38.893Z",
   "words": [
     {
       "word": "idempotent",
@@ -742,7 +742,72 @@
       "status": "mastered"
     }
   ],
-  "grammar_notes": [],
+  "grammar_notes": [
+    {
+      "title": "Đảo ngữ No sooner / Hardly (Inversion)",
+      "formula": "No sooner had + S + V3/ed + than + S + V2/ed | Hardly had + S + V3/ed + when + S + V2/ed",
+      "explanation": "Cấu trúc đảo ngữ dùng để diễn đạt ý nghĩa \"Vừa mới... thì...\" (một hành động vừa kết thúc thì hành động khác xảy ra ngay lập tức).",
+      "example": "No sooner had we arrived at the station than the train left.\n(Chúng tôi vừa mới đến ga thì đoàn tàu rời đi.)\n\nHardly had she closed her eyes when the phone rang.\n(Cô ấy vừa mới chợp mắt thì điện thoại reo.)",
+      "examplesList": [
+        {
+          "english": "No sooner had we arrived at the station than the train left.",
+          "vietnamese": "Chúng tôi vừa mới đến ga thì đoàn tàu rời đi."
+        },
+        {
+          "english": "Hardly had she closed her eyes when the phone rang.",
+          "vietnamese": "Cô ấy vừa mới chợp mắt thì điện thoại reo."
+        }
+      ],
+      "notes": "Quy tắc vàng: \"No sooner\" bắt buộc đi với \"THAN\", còn \"Hardly / Scarcely\" bắt buộc đi với \"WHEN\". Không bao giờ nhầm lẫn cặp từ nối này trong các bài thi.",
+      "tags": [
+        "inversion",
+        "emphasis",
+        "advanced"
+      ],
+      "content": "[Công thức]: No sooner had + S + V3/ed + than + S + V2/ed\n\n[Cách dùng]: Vừa mới... thì...\n\n[Lưu ý]: No sooner đi với THAN, Hardly đi với WHEN.",
+      "exercises": {
+        "multipleChoice": [
+          {
+            "id": "mc-inv-1",
+            "question": "No sooner had the presentation begun _____ the fire alarm went off.",
+            "options": [
+              "when",
+              "than",
+              "then",
+              "that"
+            ],
+            "correctAnswer": 1,
+            "explanation": "Cấu trúc chuẩn là \"No sooner had... THAN...\". Đáp án \"when\" chỉ đi với Hardly/Scarcely."
+          },
+          {
+            "id": "mc-inv-2",
+            "question": "Hardly _____ asleep when a sudden loud noise woke him up.",
+            "options": [
+              "he had fallen",
+              "had he fallen",
+              "did he fall",
+              "he fell"
+            ],
+            "correctAnswer": 1,
+            "explanation": "Khi đảo ngữ với Hardly đứng đầu câu, trợ động từ \"had\" phải đảo lên trước chủ ngữ: Hardly had + S + V3/ed."
+          }
+        ],
+        "translation": [
+          {
+            "id": "tr-inv-1",
+            "vietnamese": "Tôi vừa mới bước chân vào nhà thì trời bắt đầu đổ cơn mưa rào.",
+            "hint": "No sooner had I..., than it started pouring",
+            "suggestedEnglish": "No sooner had I stepped into the house than it started pouring with rain.",
+            "targetGrammarPoint": "Inversion with No sooner"
+          }
+        ]
+      },
+      "id": "6acc8cbe-56c1-4878-9087-6776075c5a5d",
+      "review_level": 0,
+      "next_review": "2026-10-26T09:07:38.869Z",
+      "created_at": "2026-10-26T09:07:38.869Z"
+    }
+  ],
   "review_history": [],
   "todos": [
     {
