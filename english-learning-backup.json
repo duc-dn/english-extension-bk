@@ -1,5 +1,5 @@
 {
-  "export_date": "2026-10-26T16:42:27.466Z",
+  "export_date": "2026-10-27T03:17:31.162Z",
   "words": [
     {
       "word": "idempotent",
@@ -1537,6 +1537,20 @@
         "General"
       ],
       "createdAt": "2026-10-23T04:10:41.835Z"
+    },
+    {
+      "id": "f1dcc1f3-b77f-4001-9afa-2baecc1fb8de",
+      "title": "Xử lý ticket datapal",
+      "description": "",
+      "priority": "medium",
+      "status": "pending",
+      "dueDate": "2026-10-27",
+      "reminderAt": "",
+      "reminderNotified": false,
+      "tags": [
+        "General"
+      ],
+      "createdAt": "2026-10-27T03:17:31.130Z"
     },
     {
       "id": "fc159546-a032-4838-8ab5-dee5987dfdf3",
