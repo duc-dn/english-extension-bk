@@ -1,5 +1,5 @@
 {
-  "export_date": "2026-10-27T03:17:31.162Z",
+  "export_date": "2026-10-27T14:40:27.296Z",
   "words": [
     {
       "word": "idempotent",
@@ -542,6 +542,25 @@
       "review_level": 0,
       "next_review": "2026-10-20T15:13:47.729Z",
       "created_at": "2026-10-20T15:13:47.729Z",
+      "wrong_count": 0,
+      "status": "new"
+    },
+    {
+      "word": "Cohort",
+      "phonetic": "/ˈkoʊ.hɔːrt/",
+      "meaning": "nhóm người có cùng đặc điểm; đoàn quân La Mã",
+      "example": "Cohort",
+      "contextSentence": "Cohort",
+      "sourceUrl": "https://www.google.com/search?q=COHORT&oq=COHORT&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIHCAEQABiABDIHCAIQABiABDIHCAMQABiABDIHCAQQABiABDIHCAUQABiABDIHCAYQABiABDIHCAcQABiABDIHCAgQABiABDIHCAkQABiABNIBCDE1NjBqMGo3qAIAsAIA&sourceid=chrome&source=chrome.ob&ie=UTF-8",
+      "sourceTitle": "COHORT - Tìm trên Google",
+      "tags": [
+        "web-clipping"
+      ],
+      "description": "",
+      "id": "aeba837d-30ed-45fd-8f69-6c200c119bc7",
+      "review_level": 0,
+      "next_review": "2026-10-27T08:44:12.263Z",
+      "created_at": "2026-10-27T08:44:12.263Z",
       "wrong_count": 0,
       "status": "new"
     },
@@ -1455,14 +1474,15 @@
       "title": "Xử lý 2 task EZTAX",
       "description": "",
       "priority": "medium",
-      "status": "pending",
+      "status": "completed",
       "dueDate": "2026-10-20",
       "reminderAt": "",
       "reminderNotified": false,
       "tags": [
         "General"
       ],
-      "createdAt": "2026-10-20T14:18:41.331Z"
+      "createdAt": "2026-10-20T14:18:41.331Z",
+      "completedAt": "2026-10-27T14:40:27.275Z"
     },
     {
       "id": "5f992dbc-a735-434a-ab20-24ce6246f708",
