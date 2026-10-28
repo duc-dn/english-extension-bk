@@ -1,5 +1,5 @@
 {
-  "export_date": "2026-10-28T03:09:40.274Z",
+  "export_date": "2026-10-28T03:09:57.262Z",
   "words": [
     {
       "word": "collate",
@@ -637,6 +637,25 @@
       "review_level": 0,
       "next_review": "2026-10-27T08:44:12.263Z",
       "created_at": "2026-10-27T08:44:12.263Z",
+      "wrong_count": 0,
+      "status": "new"
+    },
+    {
+      "word": "folding",
+      "phonetic": "/ˈfəʊldɪŋ/",
+      "meaning": "sự gấp; việc gấp (thu gọn) — trong CNTT: gấp biểu thức/hằng số",
+      "description": "[noun] The act of bending something over onto itself so that it lies flat, or the state of being folded.; (Computing) The process of simplifying or collapsing expressions or structures at compile time, as in constant folding.",
+      "example": "The folding of the map took longer than expected.",
+      "tags": [
+        "noun"
+      ],
+      "contextSentence": "The folding of the map took longer than expected.",
+      "sourceUrl": "",
+      "sourceTitle": "",
+      "id": "b6f62b7e-b9ea-40b8-88fe-da09abe7076e",
+      "review_level": 0,
+      "next_review": "2026-10-28T03:09:57.243Z",
+      "created_at": "2026-10-28T03:09:57.243Z",
       "wrong_count": 0,
       "status": "new"
     },
