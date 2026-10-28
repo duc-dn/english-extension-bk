@@ -1,5 +1,5 @@
 {
-  "export_date": "2026-10-28T03:09:57.262Z",
+  "export_date": "2026-10-28T14:58:45.424Z",
   "words": [
     {
       "word": "collate",
@@ -268,10 +268,10 @@
       "description": "",
       "id": "53e43e73-26b3-4fc3-bed7-48af9b599df6",
       "review_level": 0,
-      "next_review": "2026-10-24T14:04:30.942Z",
+      "next_review": "2026-10-28T15:08:45.362Z",
       "created_at": "2026-10-24T14:04:30.942Z",
-      "wrong_count": 0,
-      "status": "new"
+      "wrong_count": 1,
+      "status": "learning"
     },
     {
       "word": "intermediary data",
