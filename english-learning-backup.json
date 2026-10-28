@@ -1,6 +1,25 @@
 {
-  "export_date": "2026-10-27T14:40:27.296Z",
+  "export_date": "2026-10-28T03:07:59.287Z",
   "words": [
+    {
+      "word": "collate",
+      "phonetic": "/kəˈleɪt/",
+      "meaning": "tập hợp, thu thập và sắp xếp (các sự kiện đặt giá) lại với nhau",
+      "example": "You want to collate those bid events into a single location in real time to determine which user bid first.",
+      "contextSentence": "You want to collate those bid events into a single location in real time to determine which user bid first.",
+      "sourceUrl": "https://cert-psi-umber.vercel.app/GCP-PDE/GCP-PDE_Quiz_App.html",
+      "sourceTitle": "Google Cloud Professional Data Engineer - 308 Câu Hỏi Luyện Thi",
+      "tags": [
+        "web-clipping"
+      ],
+      "description": "",
+      "id": "05721551-aaba-4e21-9764-7eb7b74af9a0",
+      "review_level": 0,
+      "next_review": "2026-10-28T02:03:23.756Z",
+      "created_at": "2026-10-28T02:03:23.756Z",
+      "wrong_count": 0,
+      "status": "new"
+    },
     {
       "word": "idempotent",
       "phonetic": "/ˌaɪdəmˈpoʊtənt/",
@@ -293,6 +312,44 @@
       "status": "new"
     },
     {
+      "word": "omitted",
+      "phonetic": "/əˈmɪtɪd/",
+      "meaning": "bị bỏ sót, bị bỏ qua (không được thực hiện)",
+      "example": "Then you discover that a sensor calibration step has been omitted.",
+      "contextSentence": "Then you discover that a sensor calibration step has been omitted.",
+      "sourceUrl": "https://cert-psi-umber.vercel.app/GCP-PDE/GCP-PDE_Quiz_App.html",
+      "sourceTitle": "Google Cloud Professional Data Engineer - 308 Câu Hỏi Luyện Thi",
+      "tags": [
+        "web-clipping"
+      ],
+      "description": "",
+      "id": "7049c884-1b4e-4ae4-a7fa-5984e9cdfa8d",
+      "review_level": 0,
+      "next_review": "2026-10-28T02:09:39.162Z",
+      "created_at": "2026-10-28T02:09:39.162Z",
+      "wrong_count": 0,
+      "status": "new"
+    },
+    {
+      "word": "on behalf of",
+      "phonetic": "",
+      "meaning": "thay mặt người dùng",
+      "example": "A service account that has dataset access, with the application using its private key, lets the application query BigQuery on behalf of users without each user authenticating or being given dataset access.",
+      "contextSentence": "A service account that has dataset access, with the application using its private key, lets the application query BigQuery on behalf of users without each user authenticating or being given dataset access.",
+      "sourceUrl": "https://cert-psi-umber.vercel.app/GCP-PDE/GCP-PDE_Quiz_App.html",
+      "sourceTitle": "Google Cloud Professional Data Engineer - 308 Câu Hỏi Luyện Thi",
+      "tags": [
+        "web-clipping"
+      ],
+      "description": "",
+      "id": "75e9878e-3fb9-4f36-a732-a100d4118817",
+      "review_level": 0,
+      "next_review": "2026-10-27T16:30:43.396Z",
+      "created_at": "2026-10-27T16:30:43.396Z",
+      "wrong_count": 0,
+      "status": "new"
+    },
+    {
       "word": "rollout",
       "phonetic": "/ˈroʊlaʊt/",
       "meaning": "sự triển khai, ra mắt (sản phẩm/dịch vụ)",
@@ -470,6 +527,25 @@
       "status": "new"
     },
     {
+      "word": "predicate pushdown",
+      "phonetic": "/ˈprɛdɪkət ˈpʊʃdaʊn/",
+      "meaning": "đẩy điều kiện lọc xuống (xử lý ở tầng dữ liệu gần nguồn hơn)",
+      "description": "[noun] An optimization technique in query processing where filter conditions (predicates) are pushed down to the data source or storage layer to reduce the amount of data read and transferred.",
+      "example": "Predicate pushdown allows the query engine to skip reading row groups that cannot match the filter, dramatically improving performance.",
+      "tags": [
+        "noun"
+      ],
+      "contextSentence": "Predicate pushdown allows the query engine to skip reading row groups that cannot match the filter, dramatically improving performance.",
+      "sourceUrl": "",
+      "sourceTitle": "",
+      "id": "a0aed019-a501-4fe6-a24a-f34423f97b0f",
+      "review_level": 0,
+      "next_review": "2026-10-28T03:07:59.258Z",
+      "created_at": "2026-10-28T03:07:59.258Z",
+      "wrong_count": 0,
+      "status": "new"
+    },
+    {
       "word": "guarantees",
       "phonetic": "/ˌɡærənˈtiːz/",
       "meaning": "đảm bảo (rằng) — trong ngữ cảnh CNTT: giải pháp đảm bảo được khả năng vận hành production, giao hàng bất đồng bộ tới CRM và backfilling khi cần",
@@ -580,6 +656,25 @@
       "review_level": 0,
       "next_review": "2026-10-18T03:02:46.504Z",
       "created_at": "2026-10-18T03:02:46.504Z",
+      "wrong_count": 0,
+      "status": "new"
+    },
+    {
+      "word": "seismic data",
+      "phonetic": "",
+      "meaning": "Dữ liệu địa chấn",
+      "example": "You architect a system to analyze seismic data.",
+      "contextSentence": "You architect a system to analyze seismic data.",
+      "sourceUrl": "https://cert-psi-umber.vercel.app/GCP-PDE/GCP-PDE_Quiz_App.html",
+      "sourceTitle": "Google Cloud Professional Data Engineer - 308 Câu Hỏi Luyện Thi",
+      "tags": [
+        "web-clipping"
+      ],
+      "description": "",
+      "id": "b8efeeaa-9415-487d-846c-258a6cf94046",
+      "review_level": 0,
+      "next_review": "2026-10-28T02:08:07.221Z",
+      "created_at": "2026-10-28T02:08:07.221Z",
       "wrong_count": 0,
       "status": "new"
     },
@@ -698,6 +793,25 @@
       "review_level": 0,
       "next_review": "2026-10-18T03:16:28.324Z",
       "created_at": "2026-10-18T03:16:28.324Z",
+      "wrong_count": 0,
+      "status": "new"
+    },
+    {
+      "word": "permanent tables",
+      "phonetic": "",
+      "meaning": "Bảng vĩnh viễn",
+      "example": "Link as permanent tables in BigQuery for query.",
+      "contextSentence": "Link as permanent tables in BigQuery for query.",
+      "sourceUrl": "https://cert-psi-umber.vercel.app/GCP-PDE/GCP-PDE_Quiz_App.html",
+      "sourceTitle": "Google Cloud Professional Data Engineer - 308 Câu Hỏi Luyện Thi",
+      "tags": [
+        "web-clipping"
+      ],
+      "description": "",
+      "id": "ef67be23-e063-4636-9dca-bda196387f16",
+      "review_level": 0,
+      "next_review": "2026-10-27T16:50:53.651Z",
+      "created_at": "2026-10-27T16:50:53.651Z",
       "wrong_count": 0,
       "status": "new"
     },
@@ -1563,14 +1677,15 @@
       "title": "Xử lý ticket datapal",
       "description": "",
       "priority": "medium",
-      "status": "pending",
+      "status": "completed",
       "dueDate": "2026-10-27",
       "reminderAt": "",
       "reminderNotified": false,
       "tags": [
         "General"
       ],
-      "createdAt": "2026-10-27T03:17:31.130Z"
+      "createdAt": "2026-10-27T03:17:31.130Z",
+      "completedAt": "2026-10-27T14:40:29.874Z"
     },
     {
       "id": "fc159546-a032-4838-8ab5-dee5987dfdf3",
