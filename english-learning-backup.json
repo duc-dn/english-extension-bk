@@ -1,5 +1,5 @@
 {
-  "export_date": "2026-10-29T02:45:44.792Z",
+  "export_date": "2026-10-29T14:38:40.720Z",
   "words": [
     {
       "word": "collate",
@@ -1645,14 +1645,15 @@
       "title": "Hoàn thành week2 google cloud",
       "description": "",
       "priority": "medium",
-      "status": "pending",
+      "status": "completed",
       "dueDate": "2026-10-29",
       "reminderAt": "",
       "reminderNotified": false,
       "tags": [
         "General"
       ],
-      "createdAt": "2026-10-29T02:45:44.747Z"
+      "createdAt": "2026-10-29T02:45:44.747Z",
+      "completedAt": "2026-10-29T14:38:40.664Z"
     },
     {
       "id": "241bcbf1-3d03-4c82-8156-37359f344408",
