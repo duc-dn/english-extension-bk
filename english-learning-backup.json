@@ -1,5 +1,5 @@
 {
-  "export_date": "2026-10-29T01:32:42.955Z",
+  "export_date": "2026-10-29T02:45:44.792Z",
   "words": [
     {
       "word": "collate",
@@ -1640,6 +1640,20 @@
   ],
   "review_history": [],
   "todos": [
+    {
+      "id": "1fabc4c0-1cc3-4bcf-bc27-9981f4616652",
+      "title": "Hoàn thành week2 google cloud",
+      "description": "",
+      "priority": "medium",
+      "status": "pending",
+      "dueDate": "2026-10-29",
+      "reminderAt": "",
+      "reminderNotified": false,
+      "tags": [
+        "General"
+      ],
+      "createdAt": "2026-10-29T02:45:44.747Z"
+    },
     {
       "id": "241bcbf1-3d03-4c82-8156-37359f344408",
       "title": "Xử lý 2 task EZTAX",
