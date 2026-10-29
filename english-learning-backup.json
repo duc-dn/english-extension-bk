@@ -1,5 +1,5 @@
 {
-  "export_date": "2026-10-28T14:58:45.424Z",
+  "export_date": "2026-10-29T01:32:42.955Z",
   "words": [
     {
       "word": "collate",
@@ -154,6 +154,25 @@
       "review_level": 0,
       "next_review": "2026-10-22T16:16:11.390Z",
       "created_at": "2026-10-22T16:16:11.390Z",
+      "wrong_count": 0,
+      "status": "new"
+    },
+    {
+      "word": "reservation",
+      "phonetic": "/ˌrez.ərˈveɪ.ʃən/",
+      "meaning": "đặt trước (dung lượng/slot cố định)",
+      "example": "A fixed slot reservation with a baseline and no autoscaling gives a predictable monthly cost that can be billed back.",
+      "contextSentence": "A fixed slot reservation with a baseline and no autoscaling gives a predictable monthly cost that can be billed back.",
+      "sourceUrl": "https://cert-psi-umber.vercel.app/GCP-PDE/GCP-PDE_Quiz_App.html",
+      "sourceTitle": "Google Cloud Professional Data Engineer - 308 Câu Hỏi Luyện Thi",
+      "tags": [
+        "web-clipping"
+      ],
+      "description": "",
+      "id": "2b46b682-4a18-4d8a-9c35-19852ec20a72",
+      "review_level": 0,
+      "next_review": "2026-10-28T15:58:27.028Z",
+      "created_at": "2026-10-28T15:58:27.028Z",
       "wrong_count": 0,
       "status": "new"
     },
@@ -869,6 +888,25 @@
       "review_level": 0,
       "next_review": "2026-10-25T12:00:37.284Z",
       "created_at": "2026-10-25T12:00:37.284Z",
+      "wrong_count": 0,
+      "status": "new"
+    },
+    {
+      "word": "leverages",
+      "phonetic": "/ˈlev.ər.ɪdʒ.ɪz/",
+      "meaning": "tận dụng",
+      "example": "You have a complex data pipeline that moves data between cloud provider services and leverages services from each of the cloud providers.",
+      "contextSentence": "You have a complex data pipeline that moves data between cloud provider services and leverages services from each of the cloud providers.",
+      "sourceUrl": "https://cert-psi-umber.vercel.app/GCP-PDE/GCP-PDE_Quiz_App.html",
+      "sourceTitle": "Google Cloud Professional Data Engineer - 308 Câu Hỏi Luyện Thi",
+      "tags": [
+        "web-clipping"
+      ],
+      "description": "",
+      "id": "fd3f1430-231e-43fa-b2f0-21c215fe0e33",
+      "review_level": 0,
+      "next_review": "2026-10-28T16:21:13.175Z",
+      "created_at": "2026-10-28T16:21:13.175Z",
       "wrong_count": 0,
       "status": "new"
     },
@@ -1662,6 +1700,20 @@
       ],
       "createdAt": "2026-10-16T01:48:15.687Z",
       "completedAt": "2026-10-16T08:54:12.884Z"
+    },
+    {
+      "id": "b5fb9c4c-ca45-4b30-9f9f-02e8d705d51a",
+      "title": "Viết sáng kiến",
+      "description": "",
+      "priority": "medium",
+      "status": "pending",
+      "dueDate": "2026-10-29",
+      "reminderAt": "",
+      "reminderNotified": false,
+      "tags": [
+        "General"
+      ],
+      "createdAt": "2026-10-29T01:32:42.921Z"
     },
     {
       "id": "cfffc4e5-4b41-4cec-a98b-85b66805b20b",
