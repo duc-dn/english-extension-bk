@@ -1,5 +1,5 @@
 {
-  "export_date": "2026-10-30T03:30:15.473Z",
+  "export_date": "2026-10-30T03:30:39.829Z",
   "words": [
     {
       "word": "collate",
@@ -1802,6 +1802,20 @@
       ],
       "createdAt": "2026-10-26T02:07:14.094Z",
       "completedAt": "2026-10-26T08:30:19.016Z"
+    },
+    {
+      "id": "ff7fd300-73a7-4e49-81c2-983b76f210ec",
+      "title": "Rà soát các bảng c360 move sang Datalake",
+      "description": "",
+      "priority": "medium",
+      "status": "pending",
+      "dueDate": "2026-10-30",
+      "reminderAt": "",
+      "reminderNotified": false,
+      "tags": [
+        "General"
+      ],
+      "createdAt": "2026-10-30T03:30:39.780Z"
     }
   ]
 }
