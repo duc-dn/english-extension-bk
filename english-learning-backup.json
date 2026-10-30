@@ -1,5 +1,5 @@
 {
-  "export_date": "2026-10-29T14:38:40.720Z",
+  "export_date": "2026-10-30T03:30:15.473Z",
   "words": [
     {
       "word": "collate",
@@ -1641,6 +1641,20 @@
   "review_history": [],
   "todos": [
     {
+      "id": "06b19e25-eb9f-4231-9d70-14f61e65a952",
+      "title": "VNPTIQ bổ sung OpenMetadata",
+      "description": "",
+      "priority": "medium",
+      "status": "pending",
+      "dueDate": "2026-10-30",
+      "reminderAt": "",
+      "reminderNotified": false,
+      "tags": [
+        "General"
+      ],
+      "createdAt": "2026-10-30T03:30:15.394Z"
+    },
+    {
       "id": "1fabc4c0-1cc3-4bcf-bc27-9981f4616652",
       "title": "Hoàn thành week2 google cloud",
       "description": "",
@@ -1721,14 +1735,15 @@
       "title": "Viết sáng kiến",
       "description": "",
       "priority": "medium",
-      "status": "pending",
+      "status": "completed",
       "dueDate": "2026-10-29",
       "reminderAt": "",
       "reminderNotified": false,
       "tags": [
         "General"
       ],
-      "createdAt": "2026-10-29T01:32:42.921Z"
+      "createdAt": "2026-10-29T01:32:42.921Z",
+      "completedAt": "2026-10-29T14:38:43.541Z"
     },
     {
       "id": "cfffc4e5-4b41-4cec-a98b-85b66805b20b",
