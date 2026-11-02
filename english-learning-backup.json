@@ -1,5 +1,5 @@
 {
-  "export_date": "2026-11-02T02:20:04.154Z",
+  "export_date": "2026-11-02T15:26:06.323Z",
   "words": [
     {
       "word": "collate",
@@ -1645,14 +1645,15 @@
       "title": "VNPTIQ bổ sung OpenMetadata",
       "description": "",
       "priority": "medium",
-      "status": "pending",
+      "status": "completed",
       "dueDate": "2026-10-30",
       "reminderAt": "",
       "reminderNotified": false,
       "tags": [
         "General"
       ],
-      "createdAt": "2026-10-30T03:30:15.394Z"
+      "createdAt": "2026-10-30T03:30:15.394Z",
+      "completedAt": "2026-11-02T15:26:06.240Z"
     },
     {
       "id": "0e88503b-4b51-43e0-8382-15fd4e576aa4",
