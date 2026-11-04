@@ -1,5 +1,5 @@
 {
-  "export_date": "2026-11-04T01:33:26.730Z",
+  "export_date": "2026-11-04T01:35:43.996Z",
   "words": [
     {
       "word": "collate",
@@ -1762,6 +1762,20 @@
       ],
       "createdAt": "2026-10-15T08:04:01.633Z",
       "completedAt": "2026-10-15T14:14:49.344Z"
+    },
+    {
+      "id": "6e6ac5b2-c542-489d-98e5-aa8c5eaa4b2f",
+      "title": "Báo cáo lại VNPTIQ",
+      "description": "",
+      "priority": "medium",
+      "status": "pending",
+      "dueDate": "2026-11-04",
+      "reminderAt": "",
+      "reminderNotified": false,
+      "tags": [
+        "General"
+      ],
+      "createdAt": "2026-11-04T01:35:43.916Z"
     },
     {
       "id": "849878d9-fb26-46da-8e33-aae1c676b2d2",
