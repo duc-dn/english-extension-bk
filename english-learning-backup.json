@@ -1,5 +1,5 @@
 {
-  "export_date": "2026-11-04T01:33:04.680Z",
+  "export_date": "2026-11-04T01:33:26.730Z",
   "words": [
     {
       "word": "collate",
@@ -1865,6 +1865,20 @@
       ],
       "createdAt": "2026-10-26T02:07:14.094Z",
       "completedAt": "2026-10-26T08:30:19.016Z"
+    },
+    {
+      "id": "fde12d04-a69f-444a-af25-76f5809ee080",
+      "title": "tạo pipeline trên azure cho iforecast",
+      "description": "",
+      "priority": "medium",
+      "status": "pending",
+      "dueDate": "2026-11-04",
+      "reminderAt": "",
+      "reminderNotified": false,
+      "tags": [
+        "General"
+      ],
+      "createdAt": "2026-11-04T01:33:26.697Z"
     },
     {
       "id": "ff7fd300-73a7-4e49-81c2-983b76f210ec",
