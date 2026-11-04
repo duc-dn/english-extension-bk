@@ -1,5 +1,5 @@
 {
-  "export_date": "2026-11-04T02:40:48.249Z",
+  "export_date": "2026-11-04T07:33:02.325Z",
   "words": [
     {
       "word": "collate",
@@ -1792,6 +1792,20 @@
       ],
       "createdAt": "2026-10-16T01:49:13.544Z",
       "completedAt": "2026-10-16T08:54:15.593Z"
+    },
+    {
+      "id": "8b331c14-36f5-484e-ae06-596ecd44d5d6",
+      "title": "Làm W2 google cloud",
+      "description": "",
+      "priority": "medium",
+      "status": "pending",
+      "dueDate": "2026-11-04",
+      "reminderAt": "",
+      "reminderNotified": false,
+      "tags": [
+        "General"
+      ],
+      "createdAt": "2026-11-04T07:33:02.191Z"
     },
     {
       "id": "90da7397-a2de-486f-b3f6-ffa9e7cc82b9",
