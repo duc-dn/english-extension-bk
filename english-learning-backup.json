@@ -1,5 +1,5 @@
 {
-  "export_date": "2026-11-04T10:20:16.171Z",
+  "export_date": "2026-11-09T01:17:56.325Z",
   "words": [
     {
       "word": "collate",
@@ -1769,14 +1769,15 @@
       "title": "GENAIIQ 777: vnsocial",
       "description": "",
       "priority": "medium",
-      "status": "pending",
+      "status": "completed",
       "dueDate": "2026-11-04",
       "reminderAt": "",
       "reminderNotified": false,
       "tags": [
         "General"
       ],
-      "createdAt": "2026-11-04T10:20:16.136Z"
+      "createdAt": "2026-11-04T10:20:16.136Z",
+      "completedAt": "2026-11-04T10:22:41.426Z"
     },
     {
       "id": "6e6ac5b2-c542-489d-98e5-aa8c5eaa4b2f",
@@ -1836,6 +1837,20 @@
       ],
       "createdAt": "2026-10-16T01:48:15.687Z",
       "completedAt": "2026-10-16T08:54:12.884Z"
+    },
+    {
+      "id": "a1cacd3d-29a1-4d58-a99e-cbd5a50ec96b",
+      "title": "Xử lý ticket Radar",
+      "description": "",
+      "priority": "medium",
+      "status": "pending",
+      "dueDate": "2026-11-09",
+      "reminderAt": "",
+      "reminderNotified": false,
+      "tags": [
+        "General"
+      ],
+      "createdAt": "2026-11-09T01:17:56.284Z"
     },
     {
       "id": "b5fb9c4c-ca45-4b30-9f9f-02e8d705d51a",
