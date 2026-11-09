@@ -1,5 +1,5 @@
 {
-  "export_date": "2026-11-09T01:17:56.325Z",
+  "export_date": "2026-11-09T01:18:14.854Z",
   "words": [
     {
       "word": "collate",
@@ -1895,6 +1895,20 @@
       ],
       "createdAt": "2026-10-23T04:10:41.835Z",
       "completedAt": "2026-11-04T10:19:51.400Z"
+    },
+    {
+      "id": "d93cff9e-e48f-42ff-a67a-ca748be26b64",
+      "title": "meeting với a Nice reverse engineering",
+      "description": "",
+      "priority": "medium",
+      "status": "pending",
+      "dueDate": "2026-11-09",
+      "reminderAt": "",
+      "reminderNotified": false,
+      "tags": [
+        "General"
+      ],
+      "createdAt": "2026-11-09T01:18:14.824Z"
     },
     {
       "id": "f1dcc1f3-b77f-4001-9afa-2baecc1fb8de",
