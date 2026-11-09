@@ -1,5 +1,5 @@
 {
-  "export_date": "2026-11-09T01:18:14.854Z",
+  "export_date": "2026-11-09T07:47:18.927Z",
   "words": [
     {
       "word": "collate",
@@ -1843,14 +1843,15 @@
       "title": "Xử lý ticket Radar",
       "description": "",
       "priority": "medium",
-      "status": "pending",
+      "status": "completed",
       "dueDate": "2026-11-09",
       "reminderAt": "",
       "reminderNotified": false,
       "tags": [
         "General"
       ],
-      "createdAt": "2026-11-09T01:17:56.284Z"
+      "createdAt": "2026-11-09T01:17:56.284Z",
+      "completedAt": "2026-11-09T07:47:18.871Z"
     },
     {
       "id": "b5fb9c4c-ca45-4b30-9f9f-02e8d705d51a",
