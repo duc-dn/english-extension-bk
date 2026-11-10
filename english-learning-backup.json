@@ -1,5 +1,5 @@
 {
-  "export_date": "2026-11-09T07:47:18.927Z",
+  "export_date": "2026-11-10T01:18:14.187Z",
   "words": [
     {
       "word": "collate",
@@ -1814,14 +1814,15 @@
       "title": "Làm W2 google cloud",
       "description": "",
       "priority": "medium",
-      "status": "pending",
+      "status": "completed",
       "dueDate": "2026-11-04",
       "reminderAt": "",
       "reminderNotified": false,
       "tags": [
         "General"
       ],
-      "createdAt": "2026-11-04T07:33:02.191Z"
+      "createdAt": "2026-11-04T07:33:02.191Z",
+      "completedAt": "2026-11-09T07:47:19.952Z"
     },
     {
       "id": "90da7397-a2de-486f-b3f6-ffa9e7cc82b9",
@@ -1902,14 +1903,15 @@
       "title": "meeting với a Nice reverse engineering",
       "description": "",
       "priority": "medium",
-      "status": "pending",
+      "status": "completed",
       "dueDate": "2026-11-09",
       "reminderAt": "",
       "reminderNotified": false,
       "tags": [
         "General"
       ],
-      "createdAt": "2026-11-09T01:18:14.824Z"
+      "createdAt": "2026-11-09T01:18:14.824Z",
+      "completedAt": "2026-11-10T01:18:14.153Z"
     },
     {
       "id": "f1dcc1f3-b77f-4001-9afa-2baecc1fb8de",
