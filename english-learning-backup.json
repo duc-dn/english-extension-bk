@@ -1,5 +1,5 @@
 {
-  "export_date": "2026-11-20T10:57:41.856Z",
+  "export_date": "2026-11-20T14:50:22.746Z",
   "words": [
     {
       "word": "collate",
@@ -1766,6 +1766,20 @@
       ],
       "createdAt": "2026-11-04T01:33:04.526Z",
       "completedAt": "2026-11-04T09:05:09.867Z"
+    },
+    {
+      "id": "3dc18d87-56bf-42ca-bb2d-f767fc88733f",
+      "title": "https://gsd.eztax.vn/eztax/browse/EZTAX-516/",
+      "description": "",
+      "priority": "medium",
+      "status": "pending",
+      "dueDate": "2026-11-20",
+      "reminderAt": "",
+      "reminderNotified": false,
+      "tags": [
+        "General"
+      ],
+      "createdAt": "2026-11-20T14:50:22.698Z"
     },
     {
       "id": "5f992dbc-a735-434a-ab20-24ce6246f708",
