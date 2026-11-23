@@ -1,5 +1,5 @@
 {
-  "export_date": "2026-11-20T14:50:22.746Z",
+  "export_date": "2026-11-23T01:52:00.502Z",
   "words": [
     {
       "word": "collate",
@@ -1900,6 +1900,20 @@
       ],
       "createdAt": "2026-11-09T01:17:56.284Z",
       "completedAt": "2026-11-09T07:47:18.871Z"
+    },
+    {
+      "id": "a7085620-04d4-4127-b870-7a28a715f2b3",
+      "title": "Check transform đã được apply ở cả serving và cả training chưa",
+      "description": "",
+      "priority": "medium",
+      "status": "pending",
+      "dueDate": "2026-11-23",
+      "reminderAt": "",
+      "reminderNotified": false,
+      "tags": [
+        "General"
+      ],
+      "createdAt": "2026-11-23T01:52:00.434Z"
     },
     {
       "id": "b5fb9c4c-ca45-4b30-9f9f-02e8d705d51a",
