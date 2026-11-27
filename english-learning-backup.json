@@ -1,5 +1,5 @@
 {
-  "export_date": "2026-11-27T09:41:17.711Z",
+  "export_date": "2026-11-27T09:41:21.282Z",
   "words": [
     {
       "word": "collate",
@@ -1772,14 +1772,15 @@
       "title": "https://gsd.eztax.vn/eztax/browse/EZTAX-516/",
       "description": "",
       "priority": "medium",
-      "status": "pending",
+      "status": "completed",
       "dueDate": "2026-11-20",
       "reminderAt": "",
       "reminderNotified": false,
       "tags": [
         "General"
       ],
-      "createdAt": "2026-11-20T14:50:22.698Z"
+      "createdAt": "2026-11-20T14:50:22.698Z",
+      "completedAt": "2026-11-27T09:41:19.432Z"
     },
     {
       "id": "5f992dbc-a735-434a-ab20-24ce6246f708",
@@ -1832,14 +1833,15 @@
       "title": "https://gsd.eztax.vn/eztax/browse/EZTAX-506/",
       "description": "",
       "priority": "medium",
-      "status": "pending",
+      "status": "completed",
       "dueDate": "2026-11-20",
       "reminderAt": "",
       "reminderNotified": false,
       "tags": [
         "General"
       ],
-      "createdAt": "2026-11-20T10:57:41.828Z"
+      "createdAt": "2026-11-20T10:57:41.828Z",
+      "completedAt": "2026-11-27T09:41:20.285Z"
     },
     {
       "id": "849878d9-fb26-46da-8e33-aae1c676b2d2",
@@ -1936,14 +1938,15 @@
       "title": "https://gsd.eztax.vn/eztax/browse/EZTAX-507/",
       "description": "",
       "priority": "medium",
-      "status": "pending",
+      "status": "completed",
       "dueDate": "2026-11-20",
       "reminderAt": "",
       "reminderNotified": false,
       "tags": [
         "General"
       ],
-      "createdAt": "2026-11-20T10:57:20.730Z"
+      "createdAt": "2026-11-20T10:57:20.730Z",
+      "completedAt": "2026-11-27T09:41:21.260Z"
     },
     {
       "id": "cfffc4e5-4b41-4cec-a98b-85b66805b20b",
